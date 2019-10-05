@@ -1,0 +1,1482 @@
+,Name,Genre,Platform,Publisher,Developer,Global_Sales,NA_Sales,PAL_Sales,JP_Sales,Other_Sales
+0,Red Dead Redemption 2,Action-Adventure,PS4,Rockstar Games,Rockstar Games,13.94,5.26,6.21,0.21,2.26
+1,Call of Duty: Black Ops IIII,Shooter,PS4,Activision,Treyarch,9.32,4.05,3.28,0.5,1.49
+2,FIFA 19,Sports,PS4,Electronic Arts,EA Sports,9.15,0.84,6.87,0.1,1.34
+3,God of War (2018),Action,PS4,Sony Interactive Entertainment,SIE Santa Monica Studio,6.15,2.83,2.17,0.13,1.02
+4,Red Dead Redemption 2,Action-Adventure,XOne,Rockstar Games,Rockstar Games,5.77,3.76,1.47,,0.54
+5,Call of Duty: Black Ops IIII,Shooter,XOne,Activision,Treyarch,4.85,3.27,1.12,,0.46
+6,Monster Hunter: World,Action,PS4,Capcom,Capcom,4.67,1.03,1.06,2.17,0.42
+7,"Pokemon: Let's Go, Pikachu!",Role-Playing,NS,Nintendo,Game Freak,4.57,2.16,1.24,0.82,0.34
+8,Far Cry 5,Action,PS4,Ubisoft,Ubisoft,3.95,1.44,1.73,0.15,0.62
+9,Assassin's Creed Odyssey,Action-Adventure,PS4,Ubisoft,Ubisoft Quebec,3.18,1.18,1.4,0.09,0.51
+10,"Pokemon: Let's Go, Eevee!",Role-Playing,NS,Nintendo,Game Freak,2.73,1.22,0.8,0.51,0.2
+11,NBA 2K19,Sports,PS4,2K Sports,Visual Concepts,2.63,1.69,0.44,0.03,0.47
+12,Battlefield V,Shooter,PS4,Electronic Arts,EA DICE,2.22,0.8,0.93,0.16,0.34
+13,FIFA 19,Sports,XOne,Electronic Arts,EA Sports,2.22,0.56,1.5,,0.16
+14,Madden NFL 19,Sports,PS4,EA Sports,EA Tiburon,2.21,1.63,0.18,,0.41
+15,Spyro Reignited Trilogy,Platform,PS4,Activision,Toys for Bob,2.17,0.75,1.07,,0.35
+16,Dragon Quest XI: Echoes of an Elusive Age,Role-Playing,PS4,Square Enix,Square Enix,2.04,0.29,0.22,1.43,0.1
+17,Minecraft,Sandbox,NS,Mojang,4J Studios,1.89,0.69,0.56,0.52,0.12
+18,Forza Horizon 4,Racing,XOne,Microsoft Studios,Playground Games,1.84,0.74,0.95,0.01,0.15
+19,Far Cry 5,Action,XOne,Ubisoft,Ubisoft Montreal,1.78,1.14,0.47,,0.17
+20,NBA 2K19,Sports,XOne,2K Sports,Visual Concepts,1.74,1.47,0.08,,0.18
+21,Shadow of the Tomb Raider,Action-Adventure,PS4,Square Enix,Eidos Montreal,1.74,0.59,0.82,0.06,0.27
+22,Battlefield V,Shooter,XOne,Electronic Arts,EA DICE,1.55,1.05,0.35,,0.15
+23,Madden NFL 19,Sports,XOne,EA Sports,EA Tiburon,1.51,1.33,0.02,,0.16
+24,Dragon Ball FighterZ,Fighting,PS4,Namco Bandai Games,Arc System Works,1.46,0.61,0.51,0.12,0.23
+25,Assassin's Creed Odyssey,Action-Adventure,XOne,Ubisoft,Ubisoft Quebec,1.39,0.91,0.35,,0.13
+26,Fallout 76,Role-Playing,PS4,Bethesda Softworks,Bethesda Game Studios,1.32,0.52,0.49,0.1,0.2
+27,Shadow of the Colossus,Action-Adventure,PS4,Sony Interactive Entertainment,Bluepoint Games,1.2,0.44,0.52,0.05,0.19
+28,Crash Bandicoot N. Sane Trilogy,Platform,NS,Activision,Toys for Bob,1.11,0.44,0.57,0.02,0.09
+29,MLB The Show 18,Sports,PS4,Sony Interactive Entertainment,SIE San Diego Studio,1.06,0.86,,,0.2
+30,WWE 2K19,Fighting,PS4,2K Sports,Visual Concepts,0.98,0.36,0.46,,0.16
+31,EA Sports UFC 3,Sports,PS4,EA Sports,EA Vancouver,0.97,0.4,0.41,0.01,0.16
+32,Sea of Thieves,Action-Adventure,XOne,Microsoft Studios,Rare Ltd.,0.96,0.6,0.27,,0.09
+33,Fallout 76,Role-Playing,XOne,Bethesda Softworks,Bethesda Game Studios,0.93,0.59,0.26,,0.09
+34,Monster Hunter: World,Action,XOne,Capcom,Capcom,0.93,0.67,0.17,,0.09
+35,Ni no Kuni II: Revenant Kingdom,Role-Playing,PS4,Namco Bandai Games,Level 5,0.89,0.33,0.31,0.12,0.13
+36,The Crew 2,Racing,PS4,Ubisoft,Ivory Tower,0.82,0.22,0.42,0.05,0.12
+37,Shadow of the Tomb Raider,Action-Adventure,XOne,Square Enix,Eidos Montreal,0.78,0.46,0.25,,0.07
+38,Just Dance 2019,Music,NS,Ubisoft,Ubisoft Paris,0.76,0.43,0.26,,0.07
+39,FIFA 19,Sports,NS,Electronic Arts,EA Sports,0.75,0.18,0.47,0.06,0.05
+40,Monster Hunter Generations Ultimate,Action,NS,Capcom,Capcom,0.72,0.27,0.14,0.27,0.04
+41,Astro Bot Rescue Mission,Platform,PS4,Sony Interactive Entertainment,SIE Japan Studio,0.71,0.22,0.36,0.02,0.11
+42,SoulCalibur VI,Fighting,PS4,Bandai Namco Games,Project Soul,0.71,0.44,0.11,0.04,0.12
+43,Fortnite,Shooter,NS,Warner Bros. Interactive Entertainment,Epic Games,0.69,0.38,0.24,0.01,0.06
+44,Diablo III: Eternal Collection,Action,NS,Blizzard Entertainment,Blizzard Entertainment,0.67,0.38,0.22,0.01,0.06
+45,Spyro Reignited Trilogy,Platform,XOne,Activision,Toys for Bob,0.65,0.36,0.24,,0.06
+46,Crash Bandicoot N. Sane Trilogy,Platform,XOne,Activision,Vicarious Visions,0.65,0.23,0.37,,0.05
+47,LEGO The Incredibles,Action,NS,Warner Bros. Interactive Entertainment,Traveller's Tales,0.63,0.35,0.21,0.01,0.06
+48,Farming Simulator 19,Simulation,PC,Focus Home Interactive,Giants Software,0.58,,0.55,,0.03
+49,Bayonetta 2,Action,NS,Nintendo,PlatinumGames,0.57,0.26,0.2,0.07,0.04
+50,Starlink: Battle for Atlas,Action-Adventure,NS,Ubisoft,Ubisoft Toronto,0.57,0.35,0.17,,0.05
+51,Just Cause 4,Action-Adventure,PS4,Square Enix,Avalanche Studios,0.56,0.18,0.26,0.03,0.09
+52,Kingdom Come: Deliverance,Role-Playing,PS4,Deep Silver,Warhorse Studios,0.56,0.18,0.28,,0.09
+53,LEGO The Incredibles,Action,PS4,Warner Bros. Interactive Entertainment,Traveller's Tales,0.53,0.18,0.27,,0.09
+54,F1 2018,Racing,PS4,Codemasters,Codemasters Birmingham,0.53,0.05,0.39,0.01,0.08
+55,Dragon Ball FighterZ,Fighting,XOne,Namco Bandai Games,Arc System Works,0.52,0.38,0.09,,0.05
+56,Hitman 2,Action-Adventure,PS4,Warner Bros. Interactive Entertainment,IO Interactive,0.51,0.19,0.22,0.02,0.08
+57,Pro Evolution Soccer 2019,Sports,PS4,Konami,Konami,0.5,0.06,0.23,0.15,0.05
+58,Dark Souls: Remastered,Role-Playing,PS4,Bandai Namco Entertainment,From Software,0.49,0.13,0.16,0.14,0.06
+59,WWE 2K19,Fighting,XOne,2K Sports,Visual Concepts,0.48,0.3,0.14,,0.04
+60,A Way Out,Action,PS4,Electronic Arts,Hazelight,0.48,0.23,0.16,,0.08
+61,Luigi's Mansion,Adventure,3DS,Nintendo,GREZZO,0.47,0.19,0.16,0.09,0.03
+62,Jurassic World Evolution,Simulation,PS4,Frontier Developments,Frontier Developments,0.47,0.14,0.25,,0.08
+63,Detective Pikachu,Adventure,3DS,Nintendo,Creatures Inc.,0.47,0.15,0.17,0.12,0.03
+64,Farming Simulator 19,Simulation,PS4,Focus Home Interactive,Giants Software,0.47,0.13,0.26,,0.07
+65,Dissidia Final Fantasy NT,Fighting,PS4,Square Enix,Square Enix,0.46,0.19,0.06,0.16,0.05
+66,State of Decay 2,Action-Adventure,XOne,Microsoft Studios,Undead Labs,0.46,0.27,0.14,,0.04
+67,LEGO DC Super-Villains,Action-Adventure,PS4,Warner Bros. Interactive Entertainment,Traveller's Tales,0.46,0.22,0.17,,0.08
+68,Hyrule Warriors: Definitive Edition,Action,NS,Nintendo,Koei Tecmo Games,0.46,0.21,0.15,0.07,0.03
+69,EA Sports UFC 3,Sports,XOne,EA Sports,EA Vancouver,0.44,0.3,0.1,,0.04
+70,Dragon Ball FighterZ,Fighting,NS,Bandai Namco Entertainment,Arc System Works,0.44,0.21,0.13,0.07,0.03
+71,LEGO DC Super-Villains,Action-Adventure,NS,Warner Bros. Interactive Entertainment,Traveller's Tales,0.44,0.28,0.12,,0.04
+72,NHL 19,Sports,PS4,EA Sports,EA Canada,0.43,0.26,0.09,,0.08
+73,Nintendo Labo: Toy-Con 03 Vehicle Kit,Racing,NS,Nintendo,Nintendo EPD,0.41,0.16,0.15,0.06,0.03
+74,Rocket League,Sports,NS,505 Games,Psyonix Studios,0.4,0.21,0.16,,0.03
+75,Firewall: Zero Hour,Shooter,PS4,Sony Interactive Entertainment,First Contact Entertainment Inc.,0.37,0.14,0.16,0.02,0.06
+76,Go Vacation,Misc,NS,Nintendo,Bandai Namco Studios,0.37,0.12,0.22,0.01,0.03
+77,Burnout Paradise Remastered,Racing,PS4,Electronic Arts,Stellar Entertainment,0.37,0.08,0.22,0.01,0.06
+78,Dynasty Warriors 9,Action,PS4,Tecmo Koei,Omega Force,0.37,0.1,0.06,0.17,0.03
+79,Yakuza: Kiwami 2,Action,PS4,Sega,Sega,0.37,0.08,0.06,0.19,0.03
+80,Vampyr,Role-Playing,PS4,Focus Home Interactive,DONTNOD Entertainment,0.37,0.12,0.19,,0.06
+81,Destiny 2: Forsaken,Shooter,PS4,Activision,Bungie,0.36,0.19,0.11,,0.06
+82,Taiko no Tatsujin: Drum 'n' Fun!,Music,NS,Bandai Namco Games,Bandai Namco Games,0.36,,0.08,0.27,0.01
+83,Fist of The North Star: Lost Paradise,Action,PS4,Sega,Sega,0.36,0.09,0.05,0.18,0.03
+84,Nintendo Labo: Toy-Con 02 Robot Kit,Action,NS,Nintendo,Nintendo EPD,0.36,0.18,0.08,0.08,0.03
+85,Mega Man 11,Platform,NS,Capcom,Capcom,0.36,0.29,,0.03,0.03
+86,Hello Neighbor,Action,PS4,Gearbox Software,Dynamic Pixels,0.35,0.13,0.16,,0.06
+87,Sega Genesis Classics,Misc,PS4,Sega,Sega,0.35,0.08,0.21,,0.05
+88,LEGO Harry Potter Collection,Action,NS,Warner Bros. Interactive Entertainment,Traveller's Tales,0.33,0.15,0.16,,0.03
+89,The Crew 2,Racing,XOne,Ubisoft,Ivory Tower,0.33,0.2,0.1,,0.03
+90,PlayerUnknown's Battlegrounds,Shooter,PS4,Sony Interactive Entertainment,PUBG Corporation,0.33,0.13,0.15,,0.05
+91,Kirby: Battle Royale,Fighting,3DS,Nintendo,HAL Laboratory,0.33,0.07,0.05,0.2,0.01
+92,Dark Souls: Remastered,Role-Playing,NS,Bandai Namco Entertainment,From Software,0.33,0.16,0.11,0.03,0.03
+93,LEGO The Incredibles,Action,XOne,Warner Bros. Interactive Entertainment,Traveller's Tales,0.32,0.19,0.1,,0.03
+94,Farming Simulator 19,Simulation,XOne,Focus Home Interactive,Giants Software,0.32,0.19,0.09,,0.03
+95,NBA 2K19,Sports,NS,2K Sports,Visual Concepts,0.3,0.24,0.02,0.01,0.03
+96,My Hero One's Justice,Fighting,PS4,Bandai Namco Entertainment,Byking,0.3,0.16,0.05,0.04,0.05
+97,SoulCalibur VI,Fighting,XOne,Bandai Namco Games,Project Soul,0.3,0.26,0.01,,0.03
+98,LEGO DC Super-Villains,Action-Adventure,XOne,Warner Bros. Interactive Entertainment,Traveller's Tales,0.3,0.2,0.07,,0.03
+99,Sword Art Online: Fatal Bullet,Role-Playing,PS4,Namco Bandai Games,Dimps Corporation,0.29,0.11,0.03,0.13,0.03
+100,Naruto to Boruto: Shinobi Striker,Action,PS4,Bandai Namco Games,Soleil Software Studio Inc.,0.29,0.19,0.03,0.02,0.05
+101,Yooka-Laylee,Platform,PS4,Team17 Software,Playtonic Games,0.29,0.09,0.16,,0.05
+102,NHL 19,Sports,XOne,EA Sports,EA Canada,0.29,0.26,,,0.03
+103,Overcooked! 2,Simulation,NS,Sold Out,Ghost Town Games,0.29,0.17,0.09,0.01,0.03
+104,Just Cause 4,Action-Adventure,XOne,Square Enix,Avalanche Studios,0.29,0.17,0.09,,0.03
+105,WarioWare Gold,Misc,3DS,Nintendo,Intelligent Systems,0.28,0.11,0.03,0.13,0.01
+106,Secret of Mana,Role-Playing,PS4,Square Enix,Square,0.28,0.06,0.12,0.05,0.04
+107,Bravo Team,Shooter,PS4,Sony Interactive Entertainment,Supermassive Games Ltd.,0.27,0.12,0.09,0.02,0.04
+108,Shenmue I & II,Action-Adventure,PS4,Sega,Sega,0.27,0.09,0.1,0.05,0.04
+109,Carnival Games,Party,NS,2K Games,Cat Daddy Games,0.27,0.11,0.14,,0.02
+110,The World Ends with You: Final Remix,Role-Playing,NS,Nintendo,Square Enix,0.27,0.14,0.08,0.03,0.02
+111,Sword Art Online: Hollow Realization,Role-Playing,PSV,Namco Bandai Games,Aquria,0.26,,0.08,0.16,0.02
+112,Jurassic World Evolution,Simulation,XOne,Frontier Developments,Frontier Developments,0.26,0.15,0.09,,0.02
+113,My Hero One's Justice,Fighting,NS,Bandai Namco Entertainment,Byking,0.26,0.17,0.01,0.06,0.02
+114,Jikkyou Powerful Pro Baseball 2018,Sports,PS4,Konami,Konami,0.26,,,0.26,
+115,Tetris Effect,Puzzle,PS4,Sony Interactive Entertainment,Monstars Inc.,0.25,0.19,0.01,0.01,0.05
+116,Mega Man Legacy Collection 1+2,Platform,NS,Capcom,Digital Eclipse Software,0.25,0.2,,0.03,0.02
+117,Sid Meier's Civilization VI,Strategy,NS,2K Games,Firaxis Games,0.25,0.12,0.11,0.01,0.02
+118,Darksiders III,Action,PS4,THQ Nordic,Gunfire Games,0.25,0.13,0.07,,0.04
+119,Valkyria Chronicles 4,Role-Playing,PS4,Sega,Sega,0.25,0.1,0.03,0.08,0.03
+120,Hello Neighbor,Action,NS,Gearbox Software,Dynamic Pixels,0.24,0.12,0.1,,0.02
+121,Earth Defense Force 5,Shooter,PS4,D3 Publisher,Sandlot,0.24,,,0.24,
+122,Street Fighter 30th Anniversary Collection,Fighting,PS4,Capcom,Capcom,0.24,0.11,0.07,0.02,0.04
+123,A Way Out,Action,XOne,Electronic Arts,Hazelight,0.24,0.17,0.05,,0.02
+124,Just Dance 2019,Music,Wii,Ubisoft,Ubisoft Paris,0.24,0.1,0.12,,0.02
+125,Attack on Titan 2,Action,NS,Koei Tecmo,Omega Force,0.23,0.12,0.02,0.08,0.02
+126,No Man's Sky,Action-Adventure,XOne,505 Games,Hello Games,0.23,0.17,0.04,,0.02
+127,Metal Gear Survive,Action,PS4,Konami Digital Entertainment,Konami Digital Entertainment,0.23,0.08,0.06,0.05,0.03
+128,Attack on Titan 2,Action,PS4,Koei Tecmo,Omega Force,0.22,0.09,0.04,0.06,0.03
+129,Life Is Strange: Before the Storm,Adventure,PS4,Square Enix,Deck Nine,0.22,0.11,0.06,0.02,0.03
+130,Dragon Quest Builders: Revive Alefgard,Role-Playing,NS,Square Enix,Square Enix,0.22,0.07,0.07,0.07,0.01
+131,Kingdom Come: Deliverance,Role-Playing,XOne,Deep Silver,Warhorse Studios,0.22,0.14,0.06,,0.02
+132,LEGO Harry Potter Collection,Action,XOne,Warner Bros. Interactive Entertainment,Traveller's Tales,0.22,0.14,0.06,,0.02
+133,Hitman 2,Action-Adventure,XOne,Warner Bros. Interactive Entertainment,IO Interactive,0.22,0.14,0.06,,0.02
+134,Warriors Orochi 4,Action,PS4,Koei Tecmo,Omega Force,0.22,0.05,,0.16,0.01
+135,Radiant Historia: Perfect Chronology,Role-Playing,3DS,Atlus,Atlus,0.21,0.11,0.03,0.06,0.01
+136,Fallout 76,Role-Playing,PC,Bethesda Softworks,Bethesda Game Studios,0.21,0.12,0.07,,0.02
+137,Conan Exiles,Action-Adventure,PS4,Maximum Games,Funcom Oslo A/S,0.21,0.05,0.05,0.09,0.02
+138,Devil May Cry HD Collection,Action,PS4,Capcom,Capcom,0.21,0.1,0.06,0.02,0.03
+139,Kingdom Hearts: The Story So Far,Role-Playing,PS4,Square Enix,Square Enix,0.2,0.17,,,0.04
+140,Shin Megami Tensei: Strange Journey Redux,Role-Playing,3DS,Atlus,Atlus,0.2,0.08,0.01,0.1,0.01
+141,Valkyria Chronicles 4,Strategy,NS,Sega,Sega,0.19,0.12,0.04,0.02,0.02
+142,NBA Live 19,Sports,PS4,Electronic Arts,EA Tiburon,0.19,0.15,,,0.04
+143,Captain Toad: Treasure Tracker,Puzzle,3DS,Nintendo,Nintendo EPD,0.19,0.06,0.04,0.08,0.01
+144,Street Fighter 30th Anniversary Collection,Fighting,NS,Capcom,Capcom,0.19,0.12,0.04,0.01,0.02
+145,Creed: Rise to Glory,Sports,PS4,Sony Interactive Entertainment,Survios,0.19,0.15,,,0.04
+146,Naruto to Boruto: Shinobi Striker,Action,XOne,Bandai Namco Games,Soleil Software Studio Inc.,0.19,0.17,,,0.02
+147,Bendy and the Ink Machine,Puzzle,PS4,Rooster Teeth Games,TheMeatly Games,0.18,0.15,,,0.03
+148,Sega Genesis Classics,Misc,NS,Sega,Sega,0.18,0.1,0.06,,0.02
+149,Bendy and the Ink Machine,Puzzle,NS,Rooster Teeth Games,TheMeatly Games,0.17,0.15,,,0.02
+150,Katamari Damacy Reroll,Action,NS,Bandai Namco Entertainment,Bandai Namco Games,0.17,0.14,,0.02,0.02
+151,Mega Man 11,Platform,PS4,Capcom,Capcom,0.17,0.09,0.03,0.03,0.03
+152,Just Dance 2019,Music,PS4,Ubisoft,Ubisoft Paris,0.17,0.11,0.03,,0.03
+153,TT Isle of Man: Ride on the Edge,Racing,PS4,Big Ben Interactive,Kylotonn,0.17,0.05,0.09,,0.03
+154,F1 2018,Racing,XOne,Codemasters,Codemasters Birmingham,0.17,0.05,0.1,,0.01
+155,Sports Party,Sports,NS,Ubisoft,Magic Pockets,0.17,0.06,0.1,,0.01
+156,Harvest Moon: Light of Hope,Simulation,NS,Natsume,Natsume,0.17,0.12,0.03,,0.02
+157,Digimon Story: Cyber Sleuth - Hacker's Memory,Role-Playing,PS4,Namco Bandai Games,Media.Vision,0.16,0.05,0.05,0.04,0.02
+158,Bendy and the Ink Machine,Puzzle,XOne,Rooster Teeth Games,TheMeatly Games,0.16,0.14,,,0.02
+159,Overcooked! 2,Simulation,PS4,Sold Out,Ghost Town Games,0.16,0.07,0.06,,0.03
+160,Xenoblade Chronicles 2: Torna ~ The Golden Country,Role-Playing,NS,Nintendo,Monolith Soft,0.16,0.08,0.05,0.02,0.01
+161,Assassin's Creed Rogue Remastered,Action-Adventure,PS4,Ubisoft,Ubisoft,0.15,,0.13,0.01,0.02
+162,Just Dance 2019,Music,XOne,Ubisoft,Ubisoft Paris,0.15,0.13,0.01,,0.02
+163,NBA Live 19,Sports,XOne,Electronic Arts,EA Tiburon,0.15,0.13,,,0.02
+164,South Park: The Fractured But Whole,Role-Playing,NS,Ubisoft,Ubisoft San Francisco,0.14,0.08,0.05,,0.01
+165,We Happy Few,Action-Adventure,PS4,Gearbox Software,Compulsion Games,0.14,0.08,0.04,,0.02
+166,Mega Man X Legacy Collection 1+2,Platform,PS4,Capcom Entertainment,Digital Eclipse Software,0.14,0.07,,0.05,0.02
+167,My Hero One's Justice,Fighting,XOne,Bandai Namco Entertainment,Byking,0.14,0.12,,,0.01
+168,NBA 2K Playgrounds 2,Sports,NS,2K Games,Saber Interactive,0.14,0.07,0.05,,0.01
+169,Divinity: Original Sin II,Role-Playing,PS4,Bandai Namco Entertainment,Larian Studios,0.13,0.04,0.08,,0.02
+170,New Gundam Breaker,Action,PS4,Namco Bandai Games,Bandai Namco Games,0.13,0.03,,0.1,0.01
+171,R.B.I. Baseball 18,Sports,XOne,MLB Advanced Media,MLB Advanced Media,0.13,0.12,,,0.01
+172,Nickelodeon Kart Racers,Racing,NS,GameMill Entertainment,Solutions 2 Go,0.13,0.08,0.04,,0.01
+173,Destiny 2: Forsaken,Shooter,XOne,Activision,Bungie,0.13,0.08,0.04,,0.01
+174,Super Robot Wars X,Strategy,PS4,Bandai Namco Games,Bandai Namco,0.13,,,0.13,
+175,R.B.I. Baseball 18,Sports,NS,MLB Advanced Media,MLB.com,0.13,0.12,,,0.01
+176,Call of Duty: Black Ops IIII,Shooter,PC,Activision,Treyarch,0.13,0.05,0.07,,0.01
+177,The Legend of Heroes: Trails of Cold Steel IV,Role-Playing,PS4,Falcom,Falcom,0.13,,,0.13,
+178,Persona Dancing: Endless Night Collection,Music,PS4,Atlus,Atlus,0.13,0.07,,0.04,0.02
+179,Goosebumps: The Game,Adventure,NS,GameMill Entertainment,WayForward,0.13,0.09,0.02,,0.01
+180,NASCAR Heat 3,Racing,PS4,704Games,Monster Games,0.13,0.1,,,0.02
+181,Paw Patrol on a Roll,Platform,NS,Outright Games,Outright Games,0.13,,0.12,,0.01
+182,Little Dragons Café,Simulation,NS,Aksys Games,Aksys Games,0.13,0.09,,0.02,0.01
+183,The Inpatient,Action,PS4,Sony Interactive Entertainment,Supermassive Games Ltd.,0.13,0.06,0.05,,0.02
+184,MX vs ATV All Out,Racing,PS4,THQ Nordic,Rainbow Studios,0.12,0.09,0.01,,0.02
+185,Dragon's Crown Pro,Role-Playing,PS4,Atlus,Vanillaware,0.12,0.1,,,0.02
+186,Shantae: Half-Genie Hero,Platform,NS,Xseed Games,WayForward Technologies,0.12,0.09,0.01,0.01,0.01
+187,Darksiders III,Action,XOne,THQ Nordic,Gunfire Games,0.12,0.11,,,0.01
+188,Fire Pro Wrestling World,Fighting,PS4,Spike Chunsoft,Spike Chunsoft,0.12,0.06,0.02,0.03,0.02
+189,Vampyr,Role-Playing,XOne,Focus Home Interactive,DONTNOD Entertainment,0.12,0.07,0.04,,0.01
+190,Pro Yakyuu Famista Evolution,Sports,NS,Bandai Namco Games,Bandai Namco Games,0.12,,,0.12,
+191,Pokemon Crystal Version,Role-Playing,3DS,Nintendo,Game Freak,0.12,,0.11,,0.01
+192,Jikkyou Powerful Pro Baseball 2018,Sports,PSV,Konami,Konami,0.12,,,0.12,
+193,The Snack World: Trejarers Gold,Role-Playing,NS,Level 5,Level 5,0.12,,,0.12,
+194,Call of Cthulhu,Role-Playing,PS4,Focus Home Interactive,Cyanide,0.12,0.07,0.03,,0.02
+195,Subnautica,Adventure,PS4,Gearbox Software,Unknown Worlds Entertainment,0.12,0.07,0.03,,0.02
+196,Payday 2,Shooter,NS,505 Games,Overkill Software,0.12,0.08,0.02,,0.01
+197,The Alliance Alive,Role-Playing,3DS,Atlus,Cattle Call,0.11,0.04,,0.06,0.01
+198,Dead Cells,Action,NS,Merge Games,Motion Twin,0.11,0.08,0.02,,0.01
+199,Namco Museum Arcade Pac,Misc,NS,Bandai Namco Entertainment,Bandai Namco,0.11,0.08,0.02,,0.01
+200,Monster Energy Supercross - The Official Videogame,Racing,PS4,Milestone S.r.l.,Milestone S.r.l.,0.11,0.08,0.01,,0.02
+201,The Elder Scrolls Online: Summerset,MMO,XOne,Bethesda Softworks,ZeniMax Online Studios,0.11,0.09,0.01,,0.01
+202,Wolfenstein II: The New Colossus,Shooter,NS,Bethesda Softworks,MachineGames,0.11,0.05,0.05,,0.01
+203,Overcooked Special Edition,Simulation,NS,Team 17,Ghost Town Games,0.11,0.08,0.01,,0.01
+204,Ys VIII: Lacrimosa of Dana,Role-Playing,NS,NIS America,Nihon Falcom Corporation,0.11,0.03,0.03,0.03,0.01
+205,Burnout Paradise Remastered,Racing,XOne,Electronic Arts,Stellar Entertainment,0.11,0.06,0.04,,0.01
+206,Football Manager 2019,Simulation,PC,Sega,Sports Interactive,0.11,,0.1,,0.01
+207,Dark Souls: Remastered,Role-Playing,XOne,Bandai Namco Entertainment,From Software,0.11,0.07,0.03,,0.01
+208,Slime Rancher,Simulation,PS4,Skybound Games,Monomi Park,0.1,0.08,,,0.02
+209,The Seven Deadly Sins: Knights of Britannia,Fighting,PS4,Bandai Namco Entertainment,Natsume Atari,0.1,0.05,0.02,0.02,0.01
+210,The Elder Scrolls Online: Summerset,MMO,PS4,Bethesda Softworks,ZeniMax Online Studios,0.1,0.08,,,0.02
+211,NASCAR Heat 3,Racing,XOne,704Games,Monster Games,0.1,0.09,,,0.01
+212,Starlink: Battle for Atlas,Action-Adventure,PS4,Ubisoft,Ubisoft Toronto,0.1,0.08,,,0.02
+213,Zone of the Enders: The 2nd Runner MARS,Simulation,PS4,Konami,Cygames,0.1,0.05,0.01,0.03,0.01
+214,Starlink: Battle for Atlas,Action-Adventure,XOne,Ubisoft,Ubisoft Toronto,0.1,0.09,,,0.01
+215,Just Dance 2019,Music,WiiU,Ubisoft,Ubisoft Paris,0.1,0.06,0.03,,0.01
+216,Sega Genesis Classics,Misc,XOne,Sega,Sega,0.1,0.06,0.03,,0.01
+217,Sword Art Online: Fatal Bullet,Role-Playing,XOne,Namco Bandai Games,Dimps Corporation,0.1,0.09,,,0.01
+218,Deracine,Adventure,PS4,Sony Interactive Entertainment,From Software,0.1,0.07,,0.01,0.02
+219,Battlefield V,Shooter,PC,Electronic Arts,EA DICE,0.1,,0.09,,0.01
+220,Slime Rancher,Simulation,XOne,Skybound Games,Monomi Park,0.1,0.08,,,0.01
+221,Nickelodeon Kart Racers,Racing,XOne,GameMill Entertainment,Solutions 2 Go,0.09,0.08,,,0.01
+222,We Happy Few,Action-Adventure,XOne,Gearbox Software,Compulsion Games,0.09,0.07,0.01,,0.01
+223,Red Faction: Guerrilla Re-Mars-tered,Shooter,PS4,THQ Nordic,Volition,0.09,0.04,0.04,,0.02
+224,Dark Souls Trilogy,Role-Playing,PS4,Bandai Namco Entertainment,From Software,0.09,0.07,,0.01,0.02
+225,Borderlands 2 VR,Shooter,PS4,2K Games,Gearbox Software,0.09,0.07,,,0.02
+226,Train Sim World,Simulation,PS4,Maximum Games,Dovetail Games,0.09,0.05,0.03,,0.02
+227,Life Is Strange: Before the Storm,Adventure,XOne,Square Enix,Deck Nine,0.09,0.07,0.0,,0.01
+228,Strange Brigade,Shooter,PS4,Rebellion Developments,Rebellion Developments,0.09,0.05,0.03,,0.02
+229,Attack on Titan 2,Action,XOne,Koei Tecmo,Omega Force,0.09,0.08,,,0.01
+230,Nickelodeon Kart Racers,Racing,PS4,GameMill Entertainment,Solutions 2 Go,0.09,0.07,,,0.02
+231,Mutant Football League: Dynasty Edition,Sports,NS,Nighthawk Interactive,Digital Dreams,0.09,0.08,,,0.01
+232,Shining Resonance Refrain,Role-Playing,NS,Sega,Media.Vision,0.09,0.05,0.01,0.01,0.01
+233,Monster Energy Supercross - The Official Videogame,Racing,XOne,Milestone S.r.l.,Milestone S.r.l.,0.08,0.08,,,0.01
+234,TT Isle of Man: Ride on the Edge,Racing,XOne,Big Ben Interactive,Kylotonn,0.08,0.05,0.03,,0.01
+235,Spintires: MudRunner - American Wilds,Racing,PS4,Focus Home Interactive,Saber Interactive,0.08,0.07,,,0.02
+236,Shining Resonance Refrain,Role-Playing,PS4,Sega,Media.Vision,0.08,0.03,0.01,0.04,0.01
+237,Dynasty Warriors 9,Action,XOne,Tecmo Koei,Omega Force,0.08,0.06,0.01,,0.01
+238,Overcooked! 2,Simulation,XOne,Sold Out,Ghost Town Games,0.08,0.07,0.0,,0.01
+239,Gravel,Racing,PS4,Milestone S.r.l.,Milestone S.r.l.,0.08,0.06,,,0.01
+240,MX vs ATV All Out,Racing,XOne,THQ Nordic,Rainbow Studios,0.08,0.07,,,0.01
+241,BlazBlue: Cross Tag Battle,Fighting,PS4,Arc System Works,Arc System Works,0.08,0.04,,0.03,0.01
+242,Rick & Morty Virtual Rick-Ality,Simulation,PS4,Nighthawk Interactive,Owlchemy Labs,0.08,0.06,,,0.01
+243,ARK: Survival Evolved,Action-Adventure,NS,Studio Wildcard,Studio Wildcard,0.08,0.07,,,0.01
+244,NBA 2K Playgrounds 2,Sports,PS4,2K Games,Saber Interactive,0.08,0.06,,,0.01
+245,Metal Gear Survive,Action,XOne,Konami Digital Entertainment,Konami Digital Entertainment,0.08,0.05,0.01,,0.01
+246,The Banner Saga Trilogy - Bonus Edition,Strategy,PS4,505 Games,Stoic Studio,0.07,0.06,,,0.01
+247,The Witch and the Hundred Knight 2,Role-Playing,PS4,NIS America,Nippon Ichi Software,0.07,0.03,,0.03,0.01
+248,Far Cry 5,Action,PC,Ubisoft,Ubisoft,0.07,,0.07,,0.0
+249,Ride 3,Racing,PS4,Bandai Namco Entertainment,Milestone S.r.l.,0.07,0.03,0.03,,0.01
+250,Super Robot Wars X,Strategy,PSV,Bandai Namco Games,Bandai Namco,0.07,,,0.07,
+251,Harvest Moon: Light of Hope,Simulation,PS4,Natsume,Natsume,0.07,0.06,,,0.01
+252,Bass Pro Shops: The Strike - Championship Edition,Simulation,NS,Planet Entertainment,XS Games,0.07,0.06,,,0.01
+253,Warriors Orochi 4,Action,NS,Koei Tecmo,Omega Force,0.07,0.02,,0.05,0.0
+254,Wild Guns Reloaded,Shooter,NS,Natsume,Natsume Atari,0.07,0.06,,,0.01
+255,Cabela's The Hunt: Championship Edition Bundle,Simulation,NS,Planet Entertainment,Planet Entertainment,0.07,0.06,,,0.01
+256,Just Dance 2019,Music,X360,Ubisoft,Ubisoft Paris,0.07,0.05,0.01,,0.01
+257,Paw Patrol on a Roll,Platform,PS4,Outright Games,Outright Games,0.07,0.06,,,0.01
+258,Shenmue I & II,Action-Adventure,XOne,Sega,Sega,0.07,0.05,0.01,,0.01
+259,Sushi Striker: The Way of Sushido,Puzzle,NS,Nintendo,Indies Zero,0.07,0.02,0.01,0.03,0.0
+260,Subnautica,Adventure,XOne,Gearbox Software,Unknown Worlds Entertainment,0.07,0.06,,,0.01
+261,R.B.I. Baseball 18,Sports,PS4,MLB Advanced Media,MLB Advanced Media,0.07,0.06,,,0.01
+262,Disgaea 1 Complete,Role-Playing,PS4,NIS America,Nippon Ichi Software,0.07,0.04,,0.01,0.01
+263,Street Fighter 30th Anniversary Collection,Fighting,XOne,Capcom,Capcom,0.07,0.05,0.01,,0.01
+264,Dragon's Crown Pro,Role-Playing,PS4,Atlus,Vanillaware,0.07,,0.03,0.03,0.0
+265,Hello Neighbor: Hide & Seek,Adventure,NS,Gearbox Software,Dynamic Pixels,0.07,0.06,,,0.01
+266,Home Sweet Home (2017),Adventure,PS4,Mastiff,"YGGDRAZIL GROUP CO.,LTD",0.07,0.05,,,0.01
+267,BlazBlue: Cross Tag Battle,Fighting,NS,Arc System Works,Arc System Works,0.07,0.04,0.01,0.01,0.01
+268,Hello Neighbor: Hide & Seek,Adventure,PS4,Gearbox Software,Dynamic Pixels,0.07,0.05,,,0.01
+269,Hello Neighbor: Hide & Seek,Adventure,XOne,Gearbox Software,Dynamic Pixels,0.07,0.06,,,0.01
+270,Mutant Football League: Dynasty Edition,Sports,PS4,Nighthawk Interactive,Digital Dreams,0.07,0.05,,,0.01
+271,Scribblenauts: Showdown,Platform,NS,Warner Bros. Interactive,Shiver Games,0.07,0.03,0.03,,0.01
+272,Spintires: MudRunner - American Wilds,Racing,XOne,Focus Home Interactive,Saber Interactive,0.07,0.06,,,0.01
+273,Nobunaga's Ambition: Taishi,Strategy,PS4,Koei Tecmo,Koei Tecmo Games,0.06,0.01,,0.05,0.0
+274,Super Bomberman R,Puzzle,PS4,Konami Digital Entertainment,HexaDrive,0.06,0.03,,0.03,0.01
+275,Persona 5: Dancing in Starlight,Music,PS4,Atlus,Atlus,0.06,0.03,,0.03,0.01
+276,America's Greatest Game Shows: Wheel of Fortune and Jeopardy!,Party,NS,Ubisoft,Ubisoft,0.06,0.06,,,0.01
+277,FIFA 19,Sports,X360,Electronic Arts,EA Sports,0.06,,0.06,,0.0
+278,Girls und Panzer: Dream Tank Match,Action,PS4,Bandai Namco Games,Bandai Namco Games,0.06,,,0.06,
+279,The Sims 4: Get Famous,Simulation,PC,Electronic Arts,Maxis,0.06,,0.06,,0.0
+280,Golf Club 2019,Sports,PS4,2K Games,HB Studios,0.06,0.05,,,0.01
+281,Mega Man 11,Platform,XOne,Capcom,Capcom,0.06,0.06,,,0.01
+282,Victor Vran: Overkill Edition,Role-Playing,NS,Wired Productions,Haemimont Games,0.06,0.06,,,0.01
+283,Asterix and Obelix XXL2,Action-Adventure,NS,Microids,Microids,0.06,,0.06,,0.0
+284,Fate/Extella Link,Action,PSV,Marvelous,Marvelous,0.06,,,0.06,
+285,Conan Exiles,Action-Adventure,XOne,Maximum Games,Funcom Oslo A/S,0.06,0.05,0.01,,0.01
+286,NBA 2K Playgrounds 2,Sports,XOne,2K Games,Saber Interactive,0.06,0.05,,,0.01
+287,Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings,Role-Playing,PS4,Tecmo Koei,Gust,0.06,0.03,,0.03,0.01
+288,Shadows Awakening,Role-Playing,PS4,Kalypso Media,Games Farm,0.06,0.05,,,0.01
+289,Assassin's Creed Odyssey,Action-Adventure,PC,Ubisoft,Ubisoft Quebec,0.06,,0.06,,0.0
+290,Disgaea 1 Complete,Role-Playing,NS,NIS America,Nippon Ichi Software,0.06,0.03,0.01,0.01,0.0
+291,Spintires: MudRunner - American Wilds,Racing,NS,Maximum Games,Saber Interactive,0.06,0.05,,,0.01
+292,Portal Knights,Role-Playing,NS,505 Games,Keen Games,0.06,0.02,0.02,0.01,0.0
+293,Extinction,Action,PS4,Maximum Games,Iron Galaxy,0.06,0.05,,,0.01
+294,Gintama Ranbu,Action,PS4,Bandai Namco Games,Bandai Namco Games,0.06,,,0.06,
+295,One Piece: Pirate Warriors 3 - Deluxe Edition,Action,NS,Bandai Namco Entertainment,Omega Force,0.06,,0.01,0.05,0.0
+296,Party Arcade,Party,NS,Planet Entertainment,Solutions 2 Go,0.06,0.05,,,0.01
+297,Atari Flashback Classics: Volume 3,Misc,PS4,Funbox Media,Atari,0.06,0.05,,,0.01
+298,The Invisible Hours,Adventure,XOne,Tequila Works,Tequila Works,0.05,0.05,,,0.01
+299,Disaster Report 4 Plus: Summer Memories,Action-Adventure,PS4,Granzella,Granzella,0.05,,,0.05,
+300,The Sims 4 Seasons,Simulation,PC,Electronic Arts,EA,0.05,,0.05,,0.0
+301,Call of Cthulhu,Role-Playing,XOne,Focus Home Interactive,Cyanide,0.05,0.05,,,0.01
+302,Owlboy,Platform,NS,Soedesco,D-Pad Studios,0.05,0.03,0.01,,0.01
+303,The Long Dark,Simulation,XOne,Skybound Games,Hinterland Studio Inc.,0.05,0.05,,,0.01
+304,Carnival Games,Party,PS4,2K Games,Cat Daddy Games,0.05,0.04,,,0.01
+305,Yakuza 3,Action-Adventure,PS4,Sega,Sega,0.05,,,0.05,
+306,Pro Evolution Soccer 2019,Sports,XOne,Konami,Konami,0.05,0.02,0.02,,0.0
+307,Hellblade: Senua's Sacrifice,Action-Adventure,PS4,505 Games,Ninja Theory,0.05,0.03,0.01,,0.01
+308,Little Nightmares,Platform,NS,Bandai Namco Entertainment,Tarsier Studios,0.05,,0.02,0.03,0.0
+309,Strange Brigade,Shooter,XOne,Rebellion Developments,Rebellion Developments,0.05,0.04,0.01,,0.01
+310,Scribblenauts Mega Pack,Adventure,NS,Warner Bros. Interactive Entertainment,Shiver Games,0.05,0.05,,,0.01
+311,The Long Dark,Simulation,PS4,Skybound Games,Hinterland Studio Inc.,0.05,0.04,,,0.01
+312,Little Dragons Café,Simulation,PS4,Aksys Games,Aksys Games,0.05,0.03,,0.01,0.01
+313,Golf Club 2019,Sports,XOne,2K Games,HB Studios,0.05,0.05,,,0.01
+314,The Banner Saga Trilogy - Bonus Edition,Strategy,XOne,505 Games,Stoic Studio,0.05,0.05,,,0.01
+315,Scribblenauts: Showdown,Platform,PS4,Warner Bros. Interactive,Shiver Games,0.05,0.04,,,0.01
+316,MXGP Pro,Racing,PS4,Milestone S.r.l.,Milestone S.r.l.,0.05,0.04,,,0.01
+317,Extinction,Action,XOne,Maximum Games,Iron Galaxy,0.05,0.04,,,0.01
+318,My Riding Stables: Life with Horses,Simulation,NS,TREVA Entertainment,Independent Arts Software GmbH,0.05,0.04,,,0.01
+319,Apex Construct,Action,PS4,Perp Games,Fast Travel Games,0.05,0.04,,,0.01
+320,Fishing Sim World,Simulation,PS4,Dovetail Games,Dovetail Games,0.05,0.04,,,0.01
+321,Metal Max Xeno,Role-Playing,PS4,NIS America,Kadokawa Games,0.05,0.02,,0.03,0.0
+322,Toki Collector's Edition,Platform,NS,Microids,Golgoth Studio,0.05,0.04,,,0.01
+323,Don't Starve,Adventure,PS4,Klei Entertainment,Klei Entertainment,0.05,0.04,,,0.01
+324,Surviving Mars,Simulation,XOne,Maximum Games,Haemimont Games,0.05,0.04,,,0.01
+325,Red Faction: Guerrilla Re-Mars-tered,Shooter,XOne,THQ Nordic,Volition,0.05,0.04,0.01,,0.0
+326,Dakar 18,Racing,PS4,Deep Silver,Bigmoon Entertainment,0.05,0.03,0.01,,0.01
+327,ARK Park,Adventure,PS4,Snail Games USA,Snail Games USA,0.05,0.04,,,0.01
+328,Battle Chasers: Nightwar,Role-Playing,NS,THQ Nordic,Airship Syndicate,0.05,0.03,0.01,,0.0
+329,Yomawari: The Long Night Collection,Action-Adventure,NS,NIS America,Nippon Ichi Software,0.05,0.04,,0.01,0.0
+330,Carnival Games,Party,XOne,2K Games,Cat Daddy Games,0.05,0.04,,,0.01
+331,Fishing Sim World,Simulation,XOne,Dovetail Games,Dovetail Games,0.05,0.04,,,0.01
+332,Atari Flashback Classics: Volume 3,Misc,XOne,Funbox Media,Atari,0.05,0.04,,,0.01
+333,Owlboy,Platform,PS4,Soedesco,D-Pad Studios,0.05,0.04,,,0.01
+334,The Escapists 2,Action,NS,Sold Out,Team17 Software,0.05,0.04,,,0.0
+335,Gravel,Racing,XOne,Milestone S.r.l.,Milestone S.r.l,0.05,0.04,,,0.0
+336,Jake Hunter Detective Story: Ghost of the Dusk,Adventure,3DS,Aksys Games,Arc System Works,0.05,0.03,,0.01,0.0
+337,SNK Heroines Tag Team Frenzy,Fighting,NS,NIS America,SNK Corporation,0.05,0.02,0.01,0.01,0.0
+338,Onrush,Racing,PS4,Deep Silver,Codemasters,0.05,0.04,,,0.01
+339,Dead Cells,Action,PS4,Merge Games,Motion Twin,0.05,0.04,,,0.01
+340,Lost Sphear,Role-Playing,NS,Square Enix,Tokyo RPG Factory,0.04,,0.02,0.02,0.0
+341,Devil May Cry HD Collection,Action,XOne,Capcom,Capcom,0.04,0.04,,,0.0
+342,Cat Quest,Adventure,NS,PQube,PQube,0.04,0.04,,,0.0
+343,Paw Patrol on a Roll,Platform,XOne,Outright Games,Outright Games,0.04,0.04,,,0.0
+344,Megadimension Neptunia VIIR,Role-Playing,PS4,Idea Factory International,Compile Heart,0.04,0.01,,0.03,0.0
+345,The Settlers History Collection,Simulation,PC,Ubisoft,Blue Byte,0.04,,0.04,,0.0
+346,Pure Farming 2018,Simulation,PS4,Techland,Ice Flames,0.04,0.02,0.01,,0.01
+347,Hotel Transylvania 3: Monsters Overboard,Action-Adventure,XOne,Outright Games,Torus Games,0.04,0.04,,,0.0
+348,Earthfall,Action-Adventure,PS4,Gearbox Software,Holospark,0.04,0.03,,,0.01
+349,Adventure Time: Pirates of the Enchiridion,Adventure,XOne,Outright Games,Outright Games,0.04,0.04,,,0.0
+350,Scribblenauts Mega Pack,Adventure,XOne,Warner Bros. Interactive Entertainment,Shiver Games,0.04,0.04,,,0.0
+351,8 to Glory: The Official Game of the PBR,Sports,PS4,THQ Nordic,Three Gates,0.04,0.03,,,0.01
+352,Atari Flashback Classics: Volume 1,Misc,NS,Atari,Atari,0.04,0.04,,,0.0
+353,Mega Man X Legacy Collection 1+2,Platform,XOne,Capcom Entertainment,Digital Eclipse Software,0.04,0.04,,,0.0
+354,Under Night In-Birth Exe:Latest,Fighting,PS4,Aksys Games,Arc System Works,0.04,0.01,,0.03,0.0
+355,Dark Souls Trilogy,Action,XOne,Namco Bandai,From Software,0.04,0.04,,,0.0
+356,My Riding Stables: Life with Horses,Simulation,PS4,TREVA Entertainment,Independent Arts Software GmbH,0.04,0.03,,,0.01
+357,Okami HD,Action,NS,Capcom,Capcom,0.04,,,0.04,
+358,Don't Starve: Giant Edition,Adventure,XOne,505 Games,Klei Entertainment,0.04,0.04,,,0.0
+359,Surviving Mars,Simulation,PS4,Maximum Games,Haemimont Games,0.04,0.03,,,0.01
+360,Scribblenauts Mega Pack,Adventure,PS4,Warner Bros. Interactive Entertainment,Shiver Games,0.04,0.03,,,0.01
+361,Mutant Football League: Dynasty Edition,Sports,XOne,Nighthawk Interactive,Digital Dreams,0.04,0.03,,,0.0
+362,Shadows Awakening,Role-Playing,XOne,Kalypso Media,Games Farm,0.04,0.03,,,0.0
+363,Tennis World Tour,Sports,PS4,Bigben Interactive,Breakpoint Studio,0.04,0.03,,0.01,0.01
+364,Black Clover: Quartet Knights,Shooter,PS4,Bandai Namco Entertainment,Ilinx,0.04,0.02,,0.01,0.0
+365,Asterix and Obelix XXL2,Action-Adventure,PS4,Microids,Microids,0.04,,0.03,,0.01
+366,SD Gundam G Generation Genesis,Strategy,NS,Bandai Namco Games,Bandai Namco,0.04,,,0.04,
+367,Digimon Story: Cyber Sleuth - Hacker's Memory,Role-Playing,PSV,Namco Bandai Games,Media.Vision,0.04,,,0.04,
+368,Hotel Transylvania 3: Monsters Overboard,Action-Adventure,PS4,Outright Games,Torus Games,0.04,0.03,,,0.01
+369,Sushi Striker: The Way of Sushido,Puzzle,3DS,Nintendo,Indies Zero,0.04,0.02,,0.02,0.0
+370,Gintama Ranbu,Action,PSV,Namco Bandai Games,Bandai Namco Games,0.04,,,0.04,
+371,Immortal Unchained,Role-Playing,PS4,Sold Out,Toadman Interactive,0.04,0.03,,,0.01
+372,Operation Warcade,Shooter,PS4,Perpetual,Ivanovich Games,0.04,0.03,,,0.01
+373,Assassin's Creed Rogue Remastered,Action-Adventure,XOne,Ubisoft,Ubisoft,0.04,,0.03,,0.0
+374,Valkyria Chronicles 4,Role-Playing,XOne,Sega,Sega,0.04,0.03,,,0.0
+375,Monster Boy and the Cursed Kingdom,Action-Adventure,NS,FDG Entertainment,Game Atelier,0.04,0.03,,,0.0
+376,Blade Strangers,Fighting,NS,Nicalis,Studio Saizensen,0.04,0.03,,,0.0
+377,FIFA 19,Sports,PS3,Electronic Arts,EA Sports,0.04,,0.03,,0.01
+378,Persona 3: Dancing in Moonlight,Music,PS4,Atlus,Atlus,0.04,0.02,,0.01,0.01
+379,The Persistence,Action-Adventure,PS4,Sony Interactive Entertainment,Firesprite,0.04,,0.03,,0.01
+380,Darkest Dungeon,Role-Playing,PS4,Red Hook Studios,Red Hook Studios,0.04,0.02,,0.01,0.01
+381,Punch Line,Adventure,PS4,PQube,5pb. Inc.,0.04,0.03,,,0.01
+382,Scribblenauts: Showdown,Platform,XOne,Warner Bros. Interactive,Shiver Games,0.04,0.03,,,0.0
+383,Omen of Sorrow,Fighting,PS4,Soedesco,AOne Games,0.04,0.03,,,0.01
+384,Warriors Orochi 4,Action,XOne,Koei Tecmo,Omega Force,0.04,0.03,,,0.0
+385,Secret of Mana,Role-Playing,PSV,Square Enix,Square Enix,0.04,,,0.04,
+386,Tennis World Tour,Sports,XOne,Bigben Interactive,Breakpoint Studio,0.04,0.03,,,0.0
+387,SaGa: Scarlet Grace,Role-Playing,PS4,Square Enix,Square Enix,0.03,,,0.03,
+388,Snow Moto Racing Freedom,Racing,NS,Big Ben Interactive,Bigben Interactive,0.03,0.03,,,0.0
+389,South Park: The Stick of Truth,Role-Playing,PS4,Ubisoft,Obsidian Entertainment,0.03,0.03,,,0.01
+390,Monster Energy Supercross - The Official Videogame,Racing,NS,Milestone S.r.l.,Milestone S.r.l.,0.03,0.03,,,0.0
+391,8-Bit Armies,Strategy,PS4,Soedesco,Petroglyph Games,0.03,0.03,,,0.01
+392,Let's Sing 2019,Music,NS,Ravenscourt,Ravenscourt,0.03,,0.03,,0.0
+393,The Raven Remastered,Adventure,PS4,THQ Nordic,KING Art Games,0.03,0.03,,,0.01
+394,Onrush,Racing,XOne,Deep Silver,Codemasters,0.03,0.03,,,0.0
+395,Salt and Sanctuary,Platform,NS,Leadman Games,Ska Studios,0.03,0.03,,,0.0
+396,Death Mark,Misc,PS4,Aksys Games,Experience Inc.,0.03,0.02,,0.01,0.0
+397,Attack on Titan 2,Action,PSV,Koei Tecmo,Koei Tecmo Games,0.03,,,0.03,
+398,Code of Princess EX,Action,NS,Nicalis,Studio Saizensen,0.03,0.02,,0.01,0.0
+399,Naruto Shippuden: Ultimate Ninja Storm Trilogy,Fighting,NS,Bandai Namco Games,CyberConnect2,0.03,,,0.03,
+400,Aqua Moto Racing Utopia,Racing,NS,Big Ben Interactive,Bigben Interactive,0.03,0.03,,,0.0
+401,Earthfall,Action-Adventure,XOne,Gearbox Software,Holospark,0.03,0.03,,,0.0
+402,Ride 3,Racing,XOne,Bandai Namco Entertainment,Milestone S.r.l.,0.03,0.03,,,0.0
+403,8-Bit Armies,Strategy,XOne,Soedesco,Petroglyph Games,0.03,0.03,,,0.0
+404,Immortal Unchained,Role-Playing,XOne,Sold Out,Toadman Interactive,0.03,0.03,,,0.0
+405,Flashback,Platform,NS,Maximum Games,Paul Cuisset,0.03,0.01,0.02,,0.0
+406,Railway Empire,Simulation,XOne,Kalypso Media,Gaming Minds Studios,0.03,0.03,,,0.0
+407,MXGP Pro,Racing,XOne,Milestone S.r.l.,Milestone S.r.l.,0.03,0.03,,,0.0
+408,de Blob 2,Platform,NS,THQ Nordic,THQ Nordic,0.03,0.03,,,0.0
+409,Pure Farming 2018,Simulation,XOne,Techland,Ice Flames,0.03,0.03,,,0.0
+410,Railway Empire,Simulation,PS4,Kalypso Media,Gaming Minds Studios,0.03,0.02,,0.0,0.01
+411,Darkest Dungeon,Role-Playing,NS,Merge Games,Red Hook Studios,0.03,0.02,0.01,,0.0
+412,IDOLiSH7 Twelve Fantasia!,Music,PSV,Bandai Namco Entertainment,Bandai Namco Games,0.03,,,0.03,
+413,Utawarerumono: Chiriyukusha e no Komoriuta,Role-Playing,PS4,Aqua Plus,Aqua Plus,0.03,,,0.03,
+414,World of Final Fantasy Maxima,Role-Playing,XOne,Square Enix,Square Enix,0.03,0.03,,,0.0
+415,Train Sim World,Simulation,XOne,Maximum Games,Dovetail Games,0.03,0.03,,,0.0
+416,Sumikko Gurashi Atsumare Sumikko Town,Misc,NS,Nippon Columbia,Nippon Columbia,0.03,,,0.03,
+417,All-Star Fruit Racing,Racing,PS4,PQube,3DClouds.it,0.03,0.03,,,0.01
+418,Let's Sing 2019,Music,PS4,Ravenscourt,Ravenscourt,0.03,,0.03,,0.0
+419,Cyber Troopers: Virtual On x Toaru Majutsu no Index: Toaru Majutsu no Dennou Senki,Action,PS4,Sega,Sega CS3,0.03,,,0.03,
+420,Divinity: Original Sin II,Role-Playing,XOne,Bandai Namco Entertainment,Larian Studios,0.03,0.03,,,0.0
+421,Super Bomberman R,Puzzle,XOne,Konami Digital Entertainment,HexaDrive,0.03,0.03,,,0.0
+422,Mega Man X Legacy Collection 1+2,Platform,NS,Capcom,Capcom,0.03,,,0.03,
+423,Labyrinth of Refrain: Coven of Dusk,Action,PS4,NIS America,Nippon Ichi Software,0.03,0.01,,0.01,0.0
+424,Omega Labyrinth Z,Role-Playing,PSV,Unknown,Unknown,0.03,,,0.03,
+425,Override: Mech City Brawl,Action-Adventure,PS4,Modus Games,The Balance Inc,0.03,0.02,,,0.01
+426,Don't Knock Twice,Adventure,PS4,Perpetual,Wales Interactive Ltd.,0.03,0.02,,,0.01
+427,Beast Quest,Action-Adventure,PS4,Maximum Games,Torus Games,0.03,0.02,,,0.01
+428,Code: Realize - Bouquet of Rainbows,Visual Novel,PS4,Aksys Games,Idea Factory,0.03,0.02,,,0.01
+429,Adventure Time: Pirates of the Enchiridion,Adventure,NS,Outright Games,Outright Games,0.03,0.01,0.02,,0.0
+430,Utawarerumono Zan,Action,PS4,Aquaplus,Tamsoft,0.03,,,0.03,
+431,Kamen Rider: Climax Scramble Zi-O,Fighting,NS,Bandai Namco Games,Bandai Namco Games,0.03,,,0.03,
+432,Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings,Role-Playing,NS,Tecmo Koei,Gust,0.03,0.02,,0.01,0.0
+433,Record of Grancrest War,Action-Adventure,PS4,Bandai Namco Games,Bandai Namco,0.03,,,0.03,
+434,The Lost Child,Action,PS4,NIS America,Crim,0.03,0.01,,0.01,0.0
+435,Dragon Quest X: All in One Package Ver.1-4,MMO,NS,Square Enix,Square Enix,0.03,,,0.03,
+436,Penny-Punching Princess,Misc,NS,NIS America,Nippon Ichi Software,0.03,0.03,,,0.0
+437,The Longest 5 Minutes,Action,NS,NIS America,Nippon Ichi Software,0.03,0.03,,,0.0
+438,Shining Resonance Refrain,Role-Playing,XOne,Sega,Media.Vision,0.03,0.02,,,0.0
+439,SNK 40th Anniversary Collection,Misc,NS,NIS America,SNK Corporation,0.03,0.02,,,0.0
+440,Yonder: The Cloud Catcher Chronicles,Action,NS,Merge Games,Prideful Sloth,0.03,0.02,0.0,,0.0
+441,The Town of Light,Adventure,NS,Wired Productions,Unknown,0.03,0.02,,,0.0
+442,Bridge Constructor Portal,Simulation,PS4,Nighthawk Interactive,ClockStoneSoftware,0.03,0.02,,,0.01
+443,Beast Quest,Action-Adventure,XOne,Maximum Games,Torus Games,0.03,0.02,,,0.0
+444,The Raven Remastered,Adventure,XOne,THQ Nordic,KING Art Games,0.03,0.02,,,0.0
+445,Hellblade: Senua's Sacrifice,Action-Adventure,XOne,Microsoft Studios,Ninja Theory,0.03,0.02,,,0.0
+446,The Lost Child,Role-Playing,NS,NIS America,Crim,0.03,0.02,,,0.0
+447,Air Missions: Hind,Simulation,PS4,Soedesco,3Division,0.03,0.02,,,0.0
+448,Doraemon: Nobita no Takarajima,Action,3DS,FuRyu Corporation,FuRyu,0.03,,,0.03,
+449,God Wars The Complete Legend,Strategy,NS,NIS America,Kadokawa Games,0.03,0.01,,0.01,0.0
+450,Death Mark,Adventure,NS,Aksys Games,Experience Inc.,0.03,0.02,,0.0,0.0
+451,PriPara All Idol Perfect Stage!,Misc,NS,Unknown,Takara Tomy ARTS,0.03,,,0.03,
+452,Agony,Action-Adventure,PS4,Maximum Games,Madmind Studio,0.03,0.02,,,0.0
+453,Legendary Fishing,Sports,PS4,Ubisoft,Ubisoft,0.03,0.02,,,0.0
+454,The Legend of Heroes: Sen no Kiseki: Kai -Thors Military Academy 1204-,Role-Playing,PS4,Nihon Falcom Corporation,Nihon Falcom Corporation,0.03,,,0.03,
+455,Monster Boy and the Cursed Kingdom,Platform,PS4,FDG Entertainment,Game Atelier,0.03,0.02,,,0.0
+456,Past Cure,Action,PS4,Phantom 8 Studio,Phantom 8 Studio,0.03,0.02,,,0.0
+457,Mary Skelter: Nightmares 2,Role-Playing,PS4,Compile Heart,Compile Heart,0.03,,,0.03,
+458,7'scarlet,Adventure,PSV,Aksys Games,Unknown,0.02,,,0.02,
+459,The Longest 5 Minutes,Action,PSV,NIS America,Nippon Ichi Software,0.02,,,0.02,
+460,Zanki Zero: Last Beginning,Role-Playing,PSV,Spike Chunsoft,Lancarse,0.02,,,0.02,
+461,Lost Sphear,Role-Playing,PS4,Square Enix,Tokyo RPG Factory,0.02,,,0.02,
+462,Rad Rodgers,Platform,PS4,THQ Nordic,3D Realms,0.02,0.02,,,0.0
+463,Bullet Girls: Phantasia,Action,PS4,Experience Inc.,Shade,0.02,,,0.02,
+464,Trailblazers,Racing,PS4,Rising Star Games,Supergonk,0.02,0.02,,,0.0
+465,Labyrinth of Refrain: Coven of Dusk,Role-Playing,NS,NIS America,Nippon Ichi Software,0.02,0.02,,0.01,0.0
+466,Agony,Action-Adventure,XOne,Maximum Games,Madmind Studio,0.02,0.02,,,0.0
+467,"Warhammer 40,000: Deathwatch",Action,PS4,Hoplite Research,Rodeo Games,0.02,0.02,,,0.0
+468,Sudden Strike 4,Strategy,XOne,Kalypso Media,Kite Games,0.02,0.02,,,0.0
+469,Super Run For Money Tousouchuu & Sentouchuu,Action,NS,Bandai Namco Games,Bandai Namco Games,0.02,,,0.02,
+470,Bridge Constructor Portal,Puzzle,XOne,Nighthawk Interactive,ClockStone,0.02,0.02,,,0.0
+471,Blade Strangers,Fighting,PS4,Nicalis,Studio Saizensen,0.02,0.02,,,0.0
+472,"Warhammer 40,000: Inquisitor - Martyr",Action,PS4,Neocore Games,Neocore Games,0.02,0.02,,,0.0
+473,ATV Drift & Tricks,Racing,XOne,Microids,Artefacts Studio,0.02,0.02,,,0.0
+474,Titan Quest,Action,XOne,THQ Nordic,THQ Nordic,0.02,0.02,,,0.0
+475,Override: Mech City Brawl,Action-Adventure,XOne,Modus Games,The Balance Inc,0.02,0.02,,,0.0
+476,Space Hulk Tactics,Strategy,PS4,Focus Home Interactive,Cyanide,0.02,0.02,,,0.0
+477,Collar x Malice: Unlimited,Visual Novel,PSV,Idea Factory,Idea Factory,0.02,,,0.02,
+478,SaGa: Scarlet Grace,Role-Playing,NS,Square Enix,Square Enix,0.02,,,0.02,
+479,South Park: The Stick of Truth,Role-Playing,XOne,Ubisoft,Obsidian Entertainment,0.02,0.02,,,0.0
+480,428: Shibuya Scramble,Visual Novel,PS4,Spike Chunsoft,Abstraction Games,0.02,0.01,,0.01,0.0
+481,Dance with Devils,Action,PSV,Unknown,Unknown,0.02,,,0.02,
+482,Undertale,Role-Playing,NS,4-Aug,Toby Fox,0.02,,,0.02,
+483,Flipping Death,Platform,PS4,Rising Star,Zoink Games,0.02,0.02,,,0.0
+484,This Is the Police 2,Strategy,PS4,THQ Nordic,Weappy Studio,0.02,0.02,,,0.0
+485,Cats Together,Simulation,NS,Bandai Namco Games,Bandai Namco Games,0.02,,,0.02,
+486,8 to Glory: The Official Game of the PBR,Sports,XOne,THQ Nordic,Three Gates,0.02,0.02,,,0.0
+487,Cats Together,Simulation,3DS,Bandai Namco Games,Bandai Namco Games,0.02,,,0.02,
+488,Titan Quest,Action,PS4,THQ Nordic,Iron Lore Entertainment,0.02,0.02,,,0.0
+489,Border Break,Action-Adventure,PS4,Sega,Sega,0.02,,,0.02,
+490,Hunting Simulator,Shooter,NS,Bigben Interactive,Maximum Games,0.02,0.02,,,0.0
+491,Touhou Genso Wanderer Reloaded,Role-Playing,NS,NIS America,AQUA STYLE,0.02,0.01,,0.01,0.0
+492,Psychedelica of the Black Butterfly,Action,PSV,Aksys Games,Otomate,0.02,,,0.02,
+493,Armello,Strategy,PS4,League of Geeks,League of Geeks,0.02,0.02,,,0.0
+494,Valthirian Arc: Hero School Story,Role-Playing,PS4,PQube,Agate Studio,0.02,0.02,,,0.0
+495,Hello Kitty Kruisers,Misc,NS,Rising Star Games,Bergsala Lightweight,0.02,0.02,,,0.0
+496,Cyber Troopers: Virtual On x Toaru Majutsu no Index: Toaru Majutsu no Dennou Senki,Action,PSV,Sega,Sega CS3,0.02,,,0.02,
+497,Shaq-Fu: A Legend Reborn,Action,PS4,Wired Productions,Big Deez Productions,0.02,0.02,,,0.0
+498,Shaq-Fu: A Legend Reborn,Action,NS,Wired Productions,Big Deez Productions,0.02,0.02,,,0.0
+499,This Is the Police 2,Strategy,XOne,THQ Nordic,Weappy Studio,0.02,0.02,,,0.0
+500,Code: Realize - Shukufuku no Mirai,Adventure,PSV,Aksys Games,Unknown,0.02,,,0.02,
+501,Gear Club Unlimited 2,Racing,NS,Microids,Eden Games,0.02,0.02,,,0.0
+502,Gal Gun 2,Simulation,NS,PQube,Inti Creates,0.02,0.01,,0.01,0.0
+503,Runner3,Platform,NS,Nicalis,Choice Provisions,0.02,0.02,,,0.0
+504,Higurashi no Naku Koro ni Hou,Visual Novel,NS,Entergram,07th Expansion,0.02,,,0.02,
+505,Past Cure,Action,XOne,Phantom 8 Studio,Phantom 8 Studio,0.02,0.02,,,0.0
+506,Beyblade Burst: Battle Zero,Role-Playing,NS,FuRyu Corporation,FuRyu,0.02,,,0.02,
+507,Winning Post 8 2018,Sports,PS4,Koei Tecmo,Koei Tecmo Games,0.02,,,0.02,
+508,Shaq-Fu: A Legend Reborn,Action,XOne,Wired Productions,Big Deez Productions,0.02,0.02,,,0.0
+509,Crayola Scoot,Sports,PS4,Outright Games,Outright Games,0.02,0.01,,,0.0
+510,Space Hulk Tactics,Strategy,XOne,Focus Home Interactive,Cyanide,0.02,0.02,,,0.0
+511,Adventure Time: Pirates of the Enchiridion,Adventure,PS4,Outright Games,Outright Games,0.02,0.01,,,0.0
+512,Persona 5: Dancing in Starlight,Music,PSV,Atlus,Atlus,0.02,,,0.02,
+513,SteamWorld Dig 2,Platform,PS4,Rising Star Games,Image & Form Games,0.02,0.01,,,0.0
+514,Metal Max Xeno,Role-Playing,PSV,Kadokawa Games,Kadokawa Games,0.02,,,0.02,
+515,Rad Rodgers,Platform,XOne,THQ Nordic,3D Realms,0.02,0.02,,,0.0
+516,Full Metal Panic! Fight: Who Dares Wins,Fighting,PS4,Bandai Namco Entertainment,Bandai Namco Games,0.02,,,0.02,
+517,Tennis World Tour,Sports,NS,Bigben Interactive,Breakpoint Studio,0.02,0.02,,,0.0
+518,Gal Metal!,Music,NS,Xseed Games,DMM Games,0.02,0.01,,0.01,0.0
+519,Minecraft: Story Mode - Season Two,Adventure,NS,Telltale Games,Telltale Games,0.02,0.02,,,0.0
+520,Destiny 2: Forsaken,Shooter,PC,Activision,Bungie,0.02,,0.02,,0.0
+521,Project Highrise: Architect's Edition,Simulation,PS4,Kalypso Media,SomaSim,0.02,0.01,,,0.0
+522,"Warhammer 40,000: Inquisitor - Martyr",Action,XOne,Neocore Games,Neocore Games,0.02,0.02,,,0.0
+523,Gotouchi Tetsudou for Nintendo Switch!!,Puzzle,NS,Bandai Namco Games,Grounding Inc.,0.02,,,0.02,
+524,Utawarerumono: Chiriyukusha e no Komoriuta,Role-Playing,PSV,Aqua Plus,Aqua Plus,0.02,,,0.02,
+525,Ferrari: The Race Experience,Racing,Wii,System 3 Arcade Software,Eutechnyx,0.02,,0.02,,0.0
+526,Project Highrise: Architect's Edition,Simulation,NS,Kalypso Media,SomaSim,0.02,0.01,,,0.0
+527,Touhou Genso Wanderer Reloaded,Role-Playing,PS4,NIS America,AQUA STYLE,0.02,0.01,,,0.0
+528,Tour de France 2018,Simulation,PS4,Focus Home Interactive,Cyanide Studio,0.02,,0.01,,0.0
+529,Fallen Legion: Rise to Glory,Role-Playing,NS,NIS America,Unknown,0.02,0.01,,,0.0
+530,Senran Kagura: Peach and Reflexions Limited Double Pack,Misc,NS,Marvelous,Marvelous,0.02,,,0.02,
+531,Future Card Buddyfight: Tanjou! Oretachi no Saikyou Body!,Strategy,3DS,FuRyu Corporation,FuRyu,0.02,,,0.02,
+532,GRIP: Combat Racing,Racing,NS,U&I Entertainment,Caged Element,0.02,0.01,,,0.0
+533,Crayola Scoot,Sports,XOne,Outright Games,Outright Games,0.02,0.01,,,0.0
+534,Dance! It's Your Stage,Misc,Wii,Unknown,Sproing Interactive Media GMBH,0.02,,0.01,,0.0
+535,SNK Heroines Tag Team Frenzy,Fighting,PS4,NIS America,SNK Corporation,0.02,,,0.02,
+536,Dakar 18,Racing,XOne,Deep Silver,Bigmoon Entertainment,0.02,0.01,,,0.0
+537,Rapala Fishing Pro Series,Simulation,NS,GameMill Entertainment,"Concrete Software, Inc.",0.02,0.01,,,0.0
+538,Persona Dancing: Deluxe Twin Plus,Music,PSV,Atlus,Atlus,0.02,,,0.02,
+539,Pioneer no Banshou,Visual Novel,PSV,Idea Factory,Idea Factory,0.02,,,0.02,
+540,Yoku's Island Express,Action,XOne,Villa Gorilla,Villa Gorilla,0.02,0.01,,,0.0
+541,Dragon Quest X: All in One Package Ver.1-4,MMO,PS4,Square Enix,Square Enix,0.01,,,0.01,
+542,GRIP: Combat Racing,Racing,PS4,U&I Entertainment,Caged Element,0.01,0.01,,,0.0
+543,Harukanaru Toki no Naka de Ultimate,Visual Novel,PSV,Koei Tecmo,Koei Tecmo Games,0.01,,,0.01,
+544,Musynx,Music,NS,PM Studios,PM Studios,0.01,0.01,,,0.0
+545,VOEZ,Music,NS,PM Studios,Rayark Inc.,0.01,0.01,,0.01,0.0
+546,Banner Saga Trilogy,Role-Playing,NS,Gearbox Software,Stoic Studio,0.01,0.01,,,0.0
+547,Ikemen Sengoku: Toki o Kakeru Koi - Aratanaru Deai,Visual Novel,PSV,Idea Factory,CYBIRD,0.01,,,0.01,
+548,La Corda d'Oro 3,Visual Novel,PSV,Koei Tecmo,Ruby Party,0.01,,,0.01,
+549,Moto Racer 4,Racing,NS,Maximum Games,Microids,0.01,0.01,,,0.0
+550,Tempest 4000,Shooter,XOne,Atari,Llamasoft,0.01,0.01,,,0.0
+551,Flipping Death,Adventure,NS,Rising Star,Zoink Games,0.01,0.01,,,0.0
+552,Max: The Curse of Brotherhood,Action-Adventure,NS,Wired Productions,Stage Clear Studios,0.01,0.01,,,0.0
+553,God Wars: Nihon Shinwa Taisen,Role-Playing,PS4,Kadokawa Games,Kadokawa Games,0.01,,,0.01,
+554,Brawlout,Fighting,NS,Merge Games,Angry Mob Games,0.01,0.01,,,0.0
+555,Bullet Girls: Phantasia,Action,PSV,D3 Publisher,Shade,0.01,,,0.01,
+556,Yoku's Island Express,Action,PS4,Villa Gorilla,Villa Gorilla,0.01,0.01,,,0.0
+557,Mega Man X Legacy Collection 1,Platform,PS4,Capcom,Capcom,0.01,,,0.01,
+558,Killer and Strawberry,Visual Novel,PSV,Broccoli,Broccoli,0.01,,,0.01,
+559,Mega Man X Legacy Collection 1,Platform,NS,Capcom,Capcom,0.01,,,0.01,
+560,Big Buck Hunter Arcade,Shooter,NS,GameMill Entertainment,GameMill Entertainment,0.01,0.01,,,0.0
+561,London Detective Mysteria,Visual Novel,PSV,Xseed Games,Karin Entertainment,0.01,,,0.01,
+562,Mercenaries Saga Chronicles,Strategy,NS,PM Studios,"Rideon Japan, Inc.",0.01,0.01,,,0.0
+563,Billion Road,Board Game,NS,Bandai Namco Games,Bandai Namco Games,0.01,,,0.01,
+564,Far Cry 3: Classic Edition,Action-Adventure,PS4,Ubisoft,Ubisoft Montreal,0.01,,,0.01,
+565,Flashback,Platform,PS4,Microids,Paul Cuisset,0.01,0.01,,,0.0
+566,Jake Hunter Detective Story: Prism of Eyes,Adventure,PS4,Arc System Works,Arc System Works,0.01,,,0.01,
+567,Hotel Transylvania 3: Monsters Overboard,Action-Adventure,NS,Outright Games,Torus Games,0.01,0.01,,,0.0
+568,Tempest 4000,Shooter,PS4,Atari,Llamasoft,0.01,0.01,,,0.0
+569,The Elder Scrolls Online: Summerset,MMO,PC,Bethesda Softworks,ZeniMax Online Studios,0.01,,0.01,,0.0
+570,Atelier: The Alchemist of Arland 1-2-3 DX,Role-Playing,PS4,Koei Tecmo,Gust,0.01,,,0.01,
+571,Project Highrise: Architect's Edition,Simulation,XOne,Kalypso Media,SomaSim,0.01,0.01,,,0.0
+572,This Is the Police 2,Strategy,NS,THQ Nordic,Weappy Studio,0.01,0.01,,,0.0
+573,Capcom Beat 'Em Up Bundle,Fighting,PS4,Capcom,Capcom,0.01,,,0.01,
+574,Titan Quest,Action,NS,THQ Nordic,Iron Lore Entertainment,0.01,0.01,,,0.0
+575,Nari Kids Park: Hugtto! PreCure,Action,NS,Bandai Namco Games,Bandai Namco Games,0.01,,,0.01,
+576,Mothergunship,Shooter,XOne,Sold Out,Grip Games,0.01,0.01,,,0.0
+577,Let's Sing 2019,Music,Wii,Ravenscourt,Ravenscourt,0.01,,0.01,,0.0
+578,Moonlighter,Role-Playing,PS4,Merge Games,Digital Sun,0.01,0.01,,,0.0
+579,All-Star Fruit Racing,Racing,NS,PQube,3DClouds.it,0.01,0.01,,,0.0
+580,Candle: The Power of the Flame,Platform,NS,Merge Games,Teku Studios,0.01,0.01,,,0.0
+581,Crayola Scoot,Sports,NS,Outright Games,Outright Games,0.01,0.01,,,0.0
+582,Wordhunters,Misc,PS4,Wired Productions,thumbfood Ltd.,0.01,0.01,,,0.0
+583,Doukoku Soshite... Doukoku Soshite...,Visual Novel,PS4,El Dia,El Dia,0.01,,,0.01,
+584,Capcom Beat 'Em Up Bundle,Fighting,NS,Capcom,Capcom,0.01,,,0.01,
+585,Jake Hunter Detective Story: Prism of Eyes,Adventure,NS,Arc System Works,Arc System Works,0.01,,,0.01,
+586,Mega Man X Legacy Collection 2,Platform,NS,Capcom,Capcom,0.01,,,0.01,
+587,Winning Post 8 2018,Sports,NS,Koei Tecmo,Koei Tecmo Games,0.01,,,0.01,
+588,Mothergunship,Shooter,PS4,Sold Out,Grip Games,0.01,0.01,,,0.0
+589,Tokimeki Restaurant: Project Tristars,Visual Novel,PSV,KOEI,Ruby Party,0.01,,,0.01,
+590,F1 2018,Racing,PC,Codemasters,Codemasters Birmingham,0.01,,0.01,,0.0
+591,Gal Gun 2,Simulation,PS4,PQube,Inti Creates,0.01,,,0.01,
+592,Persona 3: Dancing in Moonlight,Music,PSV,Atlus,Atlus,0.01,,,0.01,
+593,Gungrave VR,Shooter,PS4,Xseed Games,IGGYMOB,0.01,0.01,,,0.0
+594,Winning Post 8 2018,Sports,PSV,Koei Tecmo,Koei Tecmo Games,0.01,,,0.01,
+595,"Tengai ni Mau, Iki na Hana",Visual Novel,PSV,Idea Factory,Idea Factory,0.01,,,0.01,
+596,Legendary Fishing,Sports,NS,Ubisoft,Ubisoft,0.01,0.01,,0.0,0.0
+597,Hyperdimension Neptunia Re;Birth1 Plus,Role-Playing,PS4,Compile Heart,Idea Factory,0.01,,,0.01,
+598,Hasbro Game Night for Nintendo Switch,Party,NS,Ubisoft,Ubisoft,0.01,,0.01,,0.0
+599,CharadeManiacs,Action,PSV,Idea Factory,Otomate,0.01,,,0.01,
+600,Lapis x Labyrinth,Role-Playing,PS4,Nippon Ichi Software,Nippon Ichi Software,0.01,,,0.01,
+601,Jagged Alliance: Rage!,Strategy,PS4,THQ Nordic,Cliffhanger Productions,0.01,0.01,,,0.0
+602,Peach Ball: Senran Kagura,Misc,NS,Marvelous Entertainment,HONEY PARADE GAMES,0.01,,,0.01,
+603,Lapis x Labyrinth,Role-Playing,NS,Nippon Ichi Software,Nippon Ichi Software,0.01,,,0.01,
+604,Trailblazers,Racing,NS,Rising Star Games,Supergonk,0.01,0.01,,,0.0
+605,Doukoku Soshite... Doukoku Soshite...,Visual Novel,PSV,El Dia,El Dia,0.01,,,0.01,
+606,V-Rally 4,Racing,PS4,Bigben Interactive,Kylotonn,0.01,0.01,,,0.0
+607,WORKxWORK,Role-Playing,NS,FuRyu Corporation,FuRyu,0.01,,,0.01,
+608,Million Arthur: Arcana Blood,Fighting,PS4,Square Enix,Square Enix,0.01,,,0.01,
+609,Atelier: The Alchemist of Arland 1-2-3 DX,Role-Playing,NS,Koei Tecmo,Gust,0.01,,,0.01,
+610,Fortissimo,Adventure,PSV,Otomate Idea Factory,Kadokawa Games,0.01,,,0.01,
+611,Neo Atlas 1469,Simulation,NS,Studio Artdink,ArtDink,0.01,,,0.01,
+612,Yoku's Island Express,Action,NS,Villa Gorilla,Villa Gorilla,0.01,0.01,,,0.0
+613,Steins;Gate Elite,Visual Novel,PSV,5pb,5pb. Inc.,0.01,,,0.01,
+614,NG,Adventure,PSV,Experience Inc.,Experience Inc.,0.01,,,0.01,
+615,SteamWorld Dig 2,Platform,NS,Rising Star Games,Image & Form Games,0.01,0.01,,,0.0
+616,Ketsui Deathtiny: Kizuna Jigoku Tachi,Action,PS4,M2,M2,0.01,,,0.01,
+617,Giana Sisters: Twisted Dreams,Platform,NS,THQ Nordic,Black Forest Games,0.01,0.01,,,0.0
+618,Yuuna and the Haunted Hot Springs: Steam Dungeon,Role-Playing,PS4,FuRyu Corporation,FuRyu,0.01,,,0.01,
+619,The Liar Princess and the Blind Prince,Platform,PSV,Nippon Ichi Software,Nippon Ichi Software,0.01,,,0.01,
+620,God Wars: Nihon Shinwa Taisen,Role-Playing,PSV,Kadokawa Games,Kadokawa Games,0.01,,,0.01,
+621,Cube Creator X,Misc,NS,Arc System Works,Arc System Works,0.01,,,0.01,
+622,V-Rally 4,Racing,XOne,Bigben Interactive,Kylotonn,0.01,0.01,,,0.0
+623,Vitamin X: Destination,Visual Novel,PSV,D3Publisher,HuneX,0.01,,,0.01,
+624,Grisaia Phantom Trigger 03 & 04,Visual Novel,PSV,Prototype,Prototype,0.01,,,0.01,
+625,Wand of Fortune R2 FD: Kimi ni Sasageru Epilogue,Adventure,PSV,Idea Factory,Idea Factory,0.01,,,0.01,
+626,Jagged Alliance: Rage!,Strategy,XOne,THQ Nordic,Cliffhanger Productions,0.01,0.01,,,0.0
+627,Darksiders III,Action,PC,THQ Nordic,Gunfire Games,0.01,,0.01,,0.0
+628,Kurenai no Homura: Sanada Ninpou Chou,Adventure,PSV,Idea Factory,Idea Factory,0.01,,,0.01,
+629,Maitetsu: Pure Station,Visual Novel,PS4,Yeti,Lose,0.01,,,0.01,
+630,Leisure Suit Larry: Wet Dreams Don't Dry,Adventure,PC,Assemble Entertainment,CrazyBunch,0.01,,0.01,,0.0
+631,Just Deal With It,Party,PS4,Wired Productions,Wired Productions,0.01,0.01,,,0.0
+632,Memories Off: Innocent File,Visual Novel,PS4,MAGES,5pb. Games,0.01,,,0.01,
+633,Flowers: Le volume sur hiver,Visual Novel,PSV,Prototype,Prototype,0.01,,,0.01,
+634,Legend of Kay Anniversary,Action-Adventure,NS,THQ Nordic,THQ Nordic,0.01,,0.01,,0.0
+635,Nil Admirari no Tenbin: Irodori Nadeshiko,Visual Novel,NS,Idea Factory,Idea Factory,0.01,,,0.01,
+636,Sengoku Hime 7: Sen'un Tsuranuku Guren no Ishi,Visual Novel,PSV,System Soft Alpha,Gesen 18,0.01,,,0.01,
+637,Kimi no Hitomi ni Hit Me,Visual Novel,PSV,Entergram,Giga,0.01,,,0.01,
+638,ATV Drift & Tricks,Racing,NS,Microids,Artefacts Studio,0.01,0.01,,,0.0
+639,Kunio-kun: The World Classics Collection,Misc,NS,Arc System Works,"Million Co., Ltd.",0.01,,,0.01,
+640,Closed Nightmare,Misc,PS4,Nippon Ichi Software,Nippon Ichi Software,0.01,,,0.01,
+641,Kunio-kun: The World Classics Collection,Misc,PS4,Arc System Works,"Million Co., Ltd.",0.01,,,0.01,
+642,Your Four Knight Princesses Training Story,Role-Playing,PSV,Nippon Ichi Software,Nippon Ichi Software,0.01,,,0.01,
+643,Lucky Dog 1,Visual Novel,PSV,Prototype,Prototype,0.01,,,0.01,
+644,Shiro to Kuro no Alice: Twilight Line,Visual Novel,PSV,Idea Factory,"Kogado Studio, Inc.",0.01,,,0.01,
+645,Cafe Cuillere,Visual Novel,PSV,Takuyo,Takuyo,0.01,,,0.01,
+646,Happy Birthdays,Misc,NS,NIS America,Arc System Works,0.01,0.01,,,0.0
+647,Koshotengai no Hashihime Noma,Visual Novel,PSV,Dramatic Create,ADELTA,0.01,,,0.01,
+648,Saiaku Naru Saiyaku Ningen ni Sasagu,Visual Novel,PS4,Kemco,Kemco,0.01,,,0.01,
+649,Amatsutsumi,Visual Novel,PSV,Prototype,Prototype,0.01,,,0.01,
+650,Mega Man X Legacy Collection 2,Platform,PS4,Capcom,Capcom,0.01,,,0.01,
+651,Dynamic Chord feat. Apple-Polisher: V Edition,Adventure,PSV,honeybee,honeybee,0.01,,,0.01,
+652,Happy Manager: Shiawase Zhuang no Kanrinin San,Simulation,PS4,D3 Publisher,D3 Publisher,0.01,,,0.01,
+653,Dance with Devils: My Carol,Visual Novel,PSV,Rejet,Rejet,0.01,,,0.01,
+654,Memories Off: Innocent File,Visual Novel,PSV,MAGES,5pb. Games,0.01,,,0.01,
+655,World End Syndrome,Visual Novel,NS,Arc System Works,Arc System Works,0.01,,,0.01,
+656,Sweet Pool,Visual Novel,PSV,Dramatic Create,Dramatic Create,0.01,,,0.01,
+657,Nari Kids Park: Ultraman R/B,Action,NS,Bandai Namco Games,Bandai Namco Games,0.0,,,0.0,
+658,Daitoshokan no Hitsujikai: Library Party,Visual Novel,NS,Aria,August,0.0,,,0.0,
+659,Cendrillon palikA,Visual Novel,NS,Idea Factory,Otomate,0.0,,,0.0,
+660,Sanzen Sekai Yuugi: Re Multi Universe Myself,Visual Novel,PSV,Dramatic Create,girls dynamics,0.0,,,0.0,
+661,Clannad,Visual Novel,PS4,Prototype,Prototype,0.0,,,0.0,
+662,Hakuoki: Shinkai - Fuukaden,Visual Novel,NS,Idea Factory,Idea Factory,0.0,,,0.0,
+663,Beniiro Tenjou Ayakashi Kitan Futaai,Adventure,PSV,Dramatic Create,Dramatic Create,0.0,,,0.0,
+664,Shin Megami Tensei IV Double Hero Pack,Action,3DS,Atlus,Atlus,0.0,,,0.0,
+665,Floral Flowlove,Visual Novel,PSV,Entergram,Entergram,0.0,,,0.0,
+666,Dillon's Dead-Heat Breakers,Action,3DS,Nintendo,Nintendo,0.0,,,0.0,
+667,Natsuiro Kokoro Log,Visual Novel,PSV,Dramatic Create,Dramatic Create,0.0,,,0.0,
+668,Ninki Seiyuu no Tsukurikata,Adventure,PSV,Entergram,Entergram,0.0,,,0.0,
+669,"Nora, Princess, and Stray Cat",Visual Novel,PS4,Harukaze,Harukaze,0.0,,,0.0,
+670,Pure Farming 2018,Simulation,PC,Techland,Ice Flames,0.0,,0.0,,0.0
+671,D.S.: Dal Segno,Visual Novel,PSV,Entergram,Entergram,0.0,,,0.0,
+672,Hello Lady! Superior Dynamis,Visual Novel,PSV,Dramatic Create,Dramatic Create,0.0,,,0.0,
+673,Railway Empire,Simulation,PC,Kalypso Media,Gaming Minds Studios,0.0,,0.0,,0.0
+674,Aokana: Four Rhythm Across the Blue,Visual Novel,NS,Sprite,Sprite,0.0,,,0.0,
+675,Boku to Nurse no Kenshuu Nisshi,Visual Novel,PS4,Entergram,Entergram,0.0,,,0.0,
+676,Crash Bandicoot N. Sane Trilogy,Platform,PC,Activision,Vicarious Visions,0.0,,0.0,,0.0
+677,Kanojo Step,Visual Novel,PSV,Piacci,Piacci,0.0,,,0.0,
+678,The Mahjong,Puzzle,NS,D3Publisher,D3Publisher,0.0,,,0.0,
+679,Closed Nightmare,Misc,NS,Nippon Ichi Software,Nippon Ichi Software,0.0,,,0.0,
+680,Ephemeral: Fantasy on Dark,Adventure,PSV,Dramatic Create,Dramatic Create,0.0,,,0.0,
+681,WorldNeverland: Elnea Kingdom,Misc,NS,althi Inc.,althi Inc.,0.0,,,0.0,
+682,Nari Kids Park: Kaitou Sentai Lupinranger Vs. Keisatsu Sentai Patoranger,Action,NS,Bandai Namco Games,Bandai Namco Games,0.0,,,0.0,
+683,Seven Days: Anata to Sugosu Nanokakan,Visual Novel,PSV,Prototype,Prototype,0.0,,,0.0,
+684,Pro Cycling Manager 2018,Simulation,PC,Focus Home Interactive,Cyanide Studio,0.0,,0.0,,0.0
+685,"Nora, Princess, and Stray Cat",Visual Novel,NS,Harukaze,Harukaze,0.0,,,0.0,
+686,Memories Off: Innocent File,Visual Novel,NS,5pb,5pb. Games,0.0,,,0.0,
+687,Enkan no Memoria: Kakera Tomoshi,Visual Novel,PSV,Dramatic Create,A'sRing,0.0,,,0.0,
+688,Island,Adventure,PS4,Prototype,Prototype,0.0,,,0.0,
+689,Tonari ni Kanojo no Iru Shiawase: Winter Guest,Adventure,PS4,Entergram,Entergram,0.0,,,0.0,
+690,Street Fighter 30th Anniversary Collection,Fighting,PC,Capcom,Capcom,0.0,,0.0,,0.0
+691,Ni no Kuni II: Revenant Kingdom,Role-Playing,PC,Namco Bandai Games,Level 5,0.0,,0.0,,0.0
+692,MotoGP 18,Racing,PC,Milestone S.r.l.,Milestone S.r.l,0.0,,0.0,,0.0
+693,Super Smash Bros. Ultimate,Fighting,NS,Nintendo,Bandai Namco Games,,,,,
+694,"Pokemon: Let's Go, Pikachu/Eevee",Role-Playing,NS,Nintendo,Game Freak,,,,,
+695,Rust,Action-Adventure,PC,Facepunch Studios,Facepunch Studios,,,,,
+696,Marvel's Spider-Man,Action-Adventure,PS4,Sony Interactive Entertainment,Insomniac Games,,,,,
+697,Super Mario Party,Party,NS,Nintendo,"Nd Cube Co., Ltd.",,,,,
+698,World of Warcraft: Battle for Azeroth,MMO,PC,Blizzard Entertainment,Blizzard Entertainment,,,,,
+699,Subnautica,Adventure,PC,Unknown Worlds Entertainment,Unknown Worlds Entertainment,,,,,
+700,Mario Tennis Aces,Sports,NS,Nintendo,Camelot Software Planning,,,,,
+701,Kirby Star Allies,Platform,NS,Nintendo,HAL Laboratory,,,,,
+702,Yokai Watch Blasters: Red Cat Corps / White Dog Squad,Role-Playing,3DS,Nintendo,Level 5,,,,,
+703,Donkey Kong Country: Tropical Freeze,Platform,NS,Nintendo,Retro Studios,,,,,
+704,Detroit: Become Human,Adventure,PS4,Sony Interactive Entertainment,Quantic Dream,,,,,
+705,Octopath Traveler,Role-Playing,NS,Nintendo,Square Enix,,,,,
+706,Conan Exiles,Action-Adventure,PC,Maximum Games,Funcom Oslo A/S,,,,,
+707,Kingdom Come: Deliverance,Role-Playing,PC,Warhorse Studios,Warhorse Studios,,,,,
+708,Nintendo Labo: Toy-Con 01 Variety Kit,Misc,NS,Nintendo,Nintendo EPD,,,,,
+709,Captain Toad: Treasure Tracker,Puzzle,NS,Nintendo,Nintendo EPD,,,,,
+710,Bendy and the Ink Machine,Puzzle,PC,Joey Drew Studios Inc.,TheMeatly Games,,,,,
+711,Yakuza 6: The Song of Life,Adventure,PS4,Sega,Sega,,,,,
+712,Final Fantasy XV: Windows Edition,Role-Playing,PC,Square Enix,Square Enix,,,,,
+713,Jurassic World Evolution,Simulation,PC,Frontier Developments,Frontier Developments,,,,,
+714,Dragon Ball FighterZ,Fighting,PC,Namco Bandai Games,Arc System Works,,,,,
+715,No Time To Explain Remastered,Action-Adventure,PC,Unknown,TinyBuild Games,,,,,
+716,Dark Souls: Remastered,Role-Playing,PC,Bandai Namco Entertainment,From Software,,,,,
+717,Dead Realm,Action-Adventure,PC,Unknown,"Section Studios, Inc.",,,,,
+718,Pit People,Strategy,PC,The Behemoth,The Behemoth,,,,,
+719,Dark and Light,Role-Playing,PC,Unknown,Snail Games USA,,,,,
+720,Talon Man Remastered,Puzzle,Amig,Out of crumpet's:,OutOfTime|OutOfCrumpets,,,,,
+721,For The King,Role-Playing,PC,Unknown,IronOak Games,,,,,
+722,Tales of Berseria,Role-Playing,PC,Namco Bandai Games,Namco Bandai Games,,,,,
+723,Battle Royale Trainer,Shooter,PC,Trickjump Games Ltd,Trickjump Games Ltd,,,,,
+724,PixARK,Sandbox,PC,Snail Games USA,Snail Games USA,,,,,
+725,Total War Saga: Thrones of Britannia,Strategy,PC,Sega,Creative Assembly,,,,,
+726,SweatShop,Simulation,PC,Unknown,DUCK,,,,,
+727,House Party,Adventure,PC,Unknown,"Eek! Games, LLC",,,,,
+728,Legend of Dungeon,Role-Playing,PC,Unknown,Robot Loves Kitty,,,,,
+729,Russian SuperHero Dead Ivan,Action,PC,Unknown,Anatoliy Loginovskikh,,,,,
+730,Pillars of Eternity II: Deadfire,Role-Playing,PC,Versus Evil,Obsidian Entertainment,,,,,
+731,Call of Duty: Modern Warfare Remastered,Shooter,PC,Activision,Infinity Ward,,,,,
+732,Crab Dub,Action,PC,Unknown,Anatoliy Loginovskikh,,,,,
+733,Sword Art Online: Fatal Bullet,Role-Playing,PC,Namco Bandai Games,Dimps Corporation,,,,,
+734,Spakoyno: Back to the USSR 2.0,Adventure,PC,Unknown,Separate Game Development,,,,,
+735,Vampyr,Role-Playing,PC,Focus Home Interactive,DONTNOD Entertainment,,,,,
+736,Yooka-Laylee,Platform,PC,Team17 Software,Playtonic Games,,,,,
+737,28 Waves Later,Action-Adventure,PC,Unknown,Dagestan Technology,,,,,
+738,We Happy Few,Action,PC,Gearbox Software,Compulsion Games,,,,,
+739,Zeno Clash 2,Shooter,PC,Unknown,ACE Team,,,,,
+740,Out of Reach,Action,PC,Space Boat Studios,Space Boat Studios,,,,,
+741,Farm Together,Simulation,PC,Milkstone Studios,Milkstone Studios S.L.,,,,,
+742,Final Fantasy XII: The Zodiac Age,Role-Playing,PC,Square Enix,Square Enix,,,,,
+743,Staxel,Simulation,PC,Humble Bundle,Plukit,,,,,
+744,Heroes of Hammerwatch,Action-Adventure,PC,Crackshell,Crackshell,,,,,
+745,Monster Prom,Simulation,PC,Those Awesome Guys,Beautiful Glitch,,,,,
+746,AXYOS,Shooter,PC,Axyos Games,Axyos Games,,,,,
+747,Salt,Adventure,PC,Lavaboots Studios,Lavaboots Studios,,,,,
+748,BallisticNG,Racing,PC,Neognosis,Neognosis,,,,,
+749,Agony,Action,PC,PlayWay,Madmind Studio,,,,,
+750,DUSK,Shooter,PC,New Blood Interactive,David Szymanski,,,,,
+751,.hack//G.U. Last Recode,Role-Playing,PC,Namco Bandai Games,CyberConnect2,,,,,
+752,A Way Out,Action,PC,Electronic Arts,Hazelight,,,,,
+753,Below,Action-Adventure,XOne,Capybara Games,Capybara Games,,,,,
+754,Below,Action-Adventure,PC,Capybara Games,Capybara Games,,,,,
+755,Cyberdimension Neptunia: 4 Goddesses Online,Role-Playing,PC,Idea Factory International,Compile Heart,,,,,
+756,Dead Island 2,Action,XOne,Deep Silver,Sumo Digital,,,,,
+757,Dead Island 2,Action,PC,Deep Silver,Sumo Digital,,,,,
+758,Donut County,Adventure,And,Annapurna Interactive,Unknown,,,,,
+759,Donut County,Adventure,OSX,Annapurna Interactive,Unknown,,,,,
+760,Donut County,Adventure,PC,Annapurna Interactive,Unknown,,,,,
+761,Dragon's Prophet,MMO,PC,Sony Online Entertainment,Runewalker Entertainment Ltd.,,,,,
+762,Extinction,Action,PC,Maximum Games,Iron Galaxy,,,,,
+763,Fe,Action,XOne,Electronic Arts,Zoink Games,,,,,
+764,Fe,Action,PS4,Electronic Arts,Zoink Games,,,,,
+765,Fe,Action,PC,Electronic Arts,Zoink Games,,,,,
+766,Get Even,Misc,PS4,Farm 51,Unknown,,,,,
+767,H1Z1,Shooter,PC,Daybreak Games,Daybreak Games,,,,,
+768,H1Z1: Battle Royale,Shooter,PS4,Daybreak Games,Daybreak Games,,,,,
+769,La-Mulana 2,Platform,PC,AGM Playism,Nigoro,,,,,
+770,Labyrinth,Adventure,PC,Unknown,Lucasfilm Games,,,,,
+771,Lady Layton: The Millionaire Ariadone's Conspiracy,Puzzle,And,Level 5,Level 5,,,,,
+772,Lost Sphear,Role-Playing,PC,Square Enix,Tokyo RPG Factory,,,,,
+773,Monster Hunter: World,Action,PC,Capcom,Capcom,,,,,
+774,Naruto to Boruto: Shinobi Striker,Action,PC,Namco Bandai Games,Soleil Software Studio Inc.,,,,,
+775,Pit People,Strategy,XOne,The Behemoth,The Behemoth,,,,,
+776,Red Goddess,Platform,XOne,Yanim Studio,Yanim Studio,,,,,
+777,Red Goddess,Misc,WiiU,Yanim Studio,Unknown,,,,,
+778,Red Goddess,Misc,PSV,Yanim Studio,Unknown,,,,,
+779,Redout,Racing,NS,Nicalis,Nicalis,,,,,
+780,Rust,Action-Adventure,OSX,Facepunch Studios,Facepunch Studios,,,,,
+781,Sea of Thieves,Action-Adventure,PC,Microsoft Studios,Rare Ltd.,,,,,
+782,Sonic Forces,Platform,PC,Sega,Sonic Team,,,,,
+783,Super Lucky's Tale,Platform,PC,THQ Nordic,Playful Corp.,,,,,
+784,The Crew 2,Racing,PC,Ubisoft,Ivory Tower,,,,,
+785,World to the West,Action-Adventure,WiiU,Rain Games,Rain Games,,,,,
+786,Wulverblade,Action,XOne,Darkwind Media,Darkwind Media,,,,,
+787,Wulverblade,Action,PC,Darkwind Media,Darkwind Media,,,,,
+788,Yooka-Laylee,Platform,OSX,Team17 Software,Playtonic Games,,,,,
+789,Yooka-Laylee,Platform,Linux,Team17 Software,Playtonic Games,,,,,
+790,Fallout Shelter,Simulation,NS,Bethesda Softworks,Bethesda Softworks,,,,,
+791,Red Faction: Guerrilla Re-Mars-tered,Shooter,PC,THQ Nordic,Volition,,,,,
+792,The Infectious Madness of Doctor Dekker,Adventure,PC,D'Avekki Studios Limited,D'Avekki Studios Limited,,,,,
+793,The Infectious Madness of Doctor Dekker,Adventure,NS,Wales Interactive Ltd.,D'Avekki Studios Limited,,,,,
+794,The Infectious Madness of Doctor Dekker,Adventure,PS4,Wales Interactive Ltd.,D'Avekki Studios Limited,,,,,
+795,The Infectious Madness of Doctor Dekker,Adventure,XOne,Wales Interactive Ltd.,D'Avekki Studios Limited,,,,,
+796,10 Second Run RETURNS,Action,NS,Blue Print,Blue Print,,,,,
+797,12 Labours of Hercules VII: Fleecing the Fleece,Strategy,PC,Jetdogs Studios,Jetdogs Studios,,,,,
+798,12 Labours of Hercules VIII: How I Met Megara,Strategy,PC,Jetdogs Studios,Jetdogs Studios,,,,,
+799,2064: Read Only Memories INTEGRAL,Adventure,NS,MidBoss,MidBoss,,,,,
+800,3D MiniGolf,Sports,NS,Merge Games,Z-Software,,,,,
+801,3on3 FreeStyle,Sports,PC,Unknown,Joycity,,,,,
+802,8-Bit Armies,Strategy,PC,Soedesco,Petroglyph Games,,,,,
+803,99Seconds,Action,WiiU,Unknown,EnjoyUp Games,,,,,
+804,99Vidas,Action,XOne,Unknown,QUByte Interactive,,,,,
+805,99Vidas,Action,PS4,Unknown,QUByte Interactive,,,,,
+806,99Vidas,Action,PSV,Unknown,QUByte Interactive,,,,,
+807,A Gummy's Life,Party,NS,Unknown,EP Games,,,,,
+808,A Hole New World,Adventure,NS,Dolores Entertainment SL,Mad Gear Games,,,,,
+809,A Normal Lost Phone,Puzzle,NS,Plug In Digital,Accidental Queens,,,,,
+810,A Robot Named Fight!,Platform,NS,Hitcents,Matt Bitner Games,,,,,
+811,A Valley Without Wind 2,Action,PC,Unknown,"Arcen Games, LLC",,,,,
+812,ABZU,Adventure,NS,505 Games,Giant Squid Studios,,,,,
+813,ACA NEOGEO 2020 SUPER BASEBALL,Sports,NS,Hamster Corporation,SNK Corporation,,,,,
+814,ACA NEOGEO AERO FIGHTERS 3,Action,NS,Hamster Corporation,Video System,,,,,
+815,ACA NEOGEO AERO FIGHTERS 3,Shooter,XOne,Hamster Corporation,Video System,,,,,
+816,ACA NEOGEO ART OF FIGHTING 2,Fighting,NS,Hamster Corporation,SNK Corporation,,,,,
+817,ACA NEOGEO ART OF FIGHTING 3,Fighting,XOne,Hamster Corporation,SNK Corporation,,,,,
+818,ACA NEOGEO BASEBALL STARS PROFESSIONAL,Sports,NS,Hamster Corporation,SNK Corporation,,,,,
+819,ACA NEOGEO BASEBALL STARS PROFESSIONAL,Sports,XOne,Hamster Corporation,SNK Corporation,,,,,
+820,ACA NEOGEO BLAZING STAR,Shooter,XOne,Hamster Corporation,SNK Corporation,,,,,
+821,ACA NEOGEO FATAL FURY 3,Fighting,NS,Hamster Corporation,SNK Corporation,,,,,
+822,ACA NEOGEO GHOST PILOTS,Action,NS,Hamster Corporation,SNK Corporation,,,,,
+823,ACA NEOGEO GHOST PILOTS,Action,PS4,Hamster Corporation,SNK Corporation,,,,,
+824,ACA NEOGEO GHOST PILOTS,Action,XOne,Hamster Corporation,SNK Corporation,,,,,
+825,ACA NEOGEO Gururin,Puzzle,NS,Hamster Corporation,FACE,,,,,
+826,ACA NEOGEO Gururin,Puzzle,PS4,Hamster Corporation,FACE,,,,,
+827,ACA NEOGEO Gururin,Puzzle,XOne,Hamster Corporation,FACE,,,,,
+828,ACA NEOGEO KING OF THE MONSTERS,Action,NS,Hamster Corporation,SNK Corporation,,,,,
+829,ACA NEOGEO LEAGUE BOWLING,Sports,NS,Hamster Corporation,SNK Corporation,,,,,
+830,ACA NEOGEO LEAGUE BOWLING,Sports,XOne,Hamster Corporation,SNK Corporation,,,,,
+831,ACA NEOGEO MAGICAL DROP III,Puzzle,NS,Hamster Corporation,SNK Corporation,,,,,
+832,ACA NEOGEO MAGICAL DROP III,Puzzle,XOne,Hamster Corporation,Data East,,,,,
+833,ACA NEOGEO MAGICAL DROP III,Puzzle,PS4,Hamster Corporation,Data East,,,,,
+834,ACA NEOGEO METAL SLUG 3,Action,PS4,Hamster Corporation,SNK Corporation,,,,,
+835,ACA NEOGEO Money Puzzle Exchanger,Puzzle,NS,Hamster Corporation,FACE,,,,,
+836,ACA NEOGEO Money Puzzle Exchanger,Puzzle,XOne,Hamster Corporation,FACE,,,,,
+837,ACA NEOGEO NINJA COMBAT,Action,NS,Hamster Corporation,SNK Corporation,,,,,
+838,ACA NEOGEO NINJA COMBAT,Action,PS4,Hamster Corporation,SNK Corporation,,,,,
+839,ACA NEOGEO NINJA COMBAT,Action,XOne,Hamster Corporation,SNK Corporation,,,,,
+840,ACA NEOGEO POWER SPIKES II,Sports,NS,Hamster Corporation,Video System,,,,,
+841,ACA NEOGEO POWER SPIKES II,Sports,XOne,Hamster Corporation,Video System,,,,,
+842,ACA NEOGEO POWER SPIKES II,Sports,PS4,Hamster Corporation,Video System,,,,,
+843,ACA NEOGEO PREHISTORIC ISLE 2,Action,NS,Hamster Corporation,SNK Corporation,,,,,
+844,ACA NEOGEO PREHISTORIC ISLE 2,Action,XOne,Hamster Corporation,SNK Corporation,,,,,
+845,ACA NEOGEO REAL BOUT FATAL FURY,Fighting,NS,Hamster Corporation,SNK Corporation,,,,,
+846,ACA NEOGEO REAL BOUT FATAL FURY 2,Fighting,XOne,Hamster Corporation,SNK Corporation,,,,,
+847,ACA NEOGEO REAL BOUT FATAL FURY SPECIAL,Fighting,PS4,Hamster Corporation,SNK Corporation,,,,,
+848,ACA NEOGEO REAL BOUT FATAL FURY SPECIAL,Fighting,NS,Hamster Corporation,SNK Corporation,,,,,
+849,ACA NEOGEO RIDING HERO,Racing,NS,Hamster Corporation,SNK Corporation,,,,,
+850,ACA NEOGEO RIDING HERO,Racing,XOne,Hamster Corporation,SNK Corporation,,,,,
+851,ACA NEOGEO SAMURAI SHODOWN II,Fighting,NS,Hamster Corporation,SNK Corporation,,,,,
+852,ACA NEOGEO SAMURAI SHODOWN III,Fighting,XOne,Hamster Corporation,SNK Corporation,,,,,
+853,ACA NEOGEO SAMURAI SHODOWN III,Fighting,NS,Hamster Corporation,SNK Corporation,,,,,
+854,ACA NEOGEO SAMURAI SHODOWN III,Fighting,PS4,Hamster Corporation,SNK Corporation,,,,,
+855,ACA NEOGEO SAMURAI SHODOWN IV,Fighting,PS4,Hamster Corporation,SNK Corporation,,,,,
+856,ACA NEOGEO SAMURAI SHODOWN IV,Fighting,XOne,Hamster Corporation,SNK Corporation,,,,,
+857,ACA NEOGEO SAMURAI SHODOWN V,Fighting,NS,Hamster Corporation,SNK Corporation,,,,,
+858,ACA NEOGEO SAMURAI SHODOWN V,Fighting,XOne,Hamster Corporation,SNK Corporation,,,,,
+859,ACA NEOGEO SENGOKU 2,Action,NS,Hamster Corporation,SNK Corporation,,,,,
+860,ACA NEOGEO SENGOKU 3,Action,NS,Hamster Corporation,SNK Corporation,,,,,
+861,ACA NEOGEO SENGOKU 3,Action,XOne,Hamster Corporation,SNK Corporation,,,,,
+862,ACA NEOGEO SENGOKU 3,Action,PS4,Hamster Corporation,SNK Corporation,,,,,
+863,ACA NEOGEO SHOCK TROOPERS,Action,XOne,Hamster Corporation,SNK Corporation,,,,,
+864,ACA NEOGEO SHOCK TROOPERS,Action,PS4,Hamster Corporation,SNK Corporation,,,,,
+865,ACA NEOGEO SHOCK TROOPERS 2nd Squad,Action,XOne,Hamster Corporation,SNK Corporation,,,,,
+866,ACA NEOGEO SHOCK TROOPERS 2nd Squad,Action,PS4,Hamster Corporation,SNK Corporation,,,,,
+867,ACA NEOGEO STAKES WINNER,Sports,NS,Hamster Corporation,SNK Corporation,,,,,
+868,ACA NEOGEO STAKES WINNER,Sports,PS4,Hamster Corporation,SNK Corporation,,,,,
+869,ACA NEOGEO STAKES WINNER,Sports,XOne,Hamster Corporation,SNK Corporation,,,,,
+870,ACA NEOGEO SUPER SIDEKICKS 2,Sports,NS,Hamster Corporation,SNK Corporation,,,,,
+871,ACA NEOGEO SUPER SIDEKICKS 2,Sports,PS4,Hamster Corporation,SNK Corporation,,,,,
+872,ACA NEOGEO SUPER SIDEKICKS 2,Sports,XOne,Hamster Corporation,SNK Corporation,,,,,
+873,ACA NEOGEO SUPER SIDEKICKS 3 : THE NEXT GLORY,Sports,NS,Hamster Corporation,SNK Corporation,,,,,
+874,ACA NEOGEO SUPER SIDEKICKS 3 : THE NEXT GLORY,Sports,XOne,Hamster Corporation,SNK Corporation,,,,,
+875,ACA NEOGEO THE KING OF FIGHTERS '97,Fighting,NS,Hamster Corporation,SNK Corporation,,,,,
+876,ACA NEOGEO THE KING OF FIGHTERS '98,Fighting,XOne,Hamster Corporation,SNK Corporation,,,,,
+877,ACA NEOGEO THE KING OF FIGHTERS '98,Fighting,PS4,Hamster Corporation,SNK Corporation,,,,,
+878,ACA NEOGEO THE KING OF FIGHTERS '99,Fighting,XOne,Hamster Corporation,SNK Corporation,,,,,
+879,ACA NEOGEO THE KING OF FIGHTERS 2000,Fighting,XOne,Hamster Corporation,SNK Corporation,,,,,
+880,ACA NEOGEO THE LAST BLADE 2,Fighting,XOne,Hamster Corporation,SNK Corporation,,,,,
+881,ACA NEOGEO THE LAST BLADE 2,Fighting,NS,Hamster Corporation,SNK Corporation,,,,,
+882,ACA NEOGEO THE LAST BLADE 2,Fighting,PS4,Hamster Corporation,SNK Corporation,,,,,
+883,ACA NEOGEO THE SUPER SPY,Action,NS,Hamster Corporation,SNK Corporation,,,,,
+884,ACA NEOGEO THE SUPER SPY,Action,XOne,Hamster Corporation,SNK Corporation,,,,,
+885,ACA NEOGEO TOP HUNTER RODDY & CATHY,Action,PS4,Hamster Corporation,SNK Corporation,,,,,
+886,ACA NEOGEO TOP PLAYER'S GOLF,Sports,NS,Hamster Corporation,SNK Corporation,,,,,
+887,ACA NEOGEO TOP PLAYERS GOLF,Sports,XOne,Hamster Corporation,SNK Corporation,,,,,
+888,ACA NEOGEO WORLD HEROES,Fighting,XOne,Hamster Corporation,SNK Corporation,,,,,
+889,ACA NEOGEO WORLD HEROES 2,Fighting,NS,Hamster Corporation,SNK Corporation,,,,,
+890,ACA NEOGEO WORLD HEROES 2 JET,Fighting,NS,Hamster Corporation,SNK Corporation,,,,,
+891,ACA NEOGEO WORLD HEROES 2 JET,Fighting,PS4,Hamster Corporation,SNK Corporation,,,,,
+892,Ace of Seafood,Action,NS,AGM Playism,Nussoft,,,,,
+893,Aegis Defenders,Action,NS,Humble Bundle,GUTS Department,,,,,
+894,AeternoBlade,Adventure,NS,"Corecell Technology Co.,Ltd.","Corecell Technology Co.,Ltd.",,,,,
+895,Age of Empires: Definitive Edition,Strategy,PC,Microsoft Studios,Forgotten Empires,,,,,
+896,Air Hockey,Sports,NS,Sabec Limited,Sabec Limited,,,,,
+897,Akogare Girls Collection: Wan Nyan Doubutsu Byouin Pet no Oisha-san ni Narou!,Simulation,3DS,Nippon Columbia,Nippon Columbia,,,,,
+898,Alien Breed,Shooter,Amig,Unknown,Team17,,,,,
+899,Alteric,Platform,NS,Sometimes You,Sometimes You,,,,,
+900,Alvastia Chronicles,Role-Playing,iOS,Kemco,Exe Create Inc.,,,,,
+901,Alvastia Chronicles,Role-Playing,And,Kemco,Exe Create Inc.,,,,,
+902,Ambition of the Slimes,Strategy,NS,Flyhigh Works,Flyhigh Works,,,,,
+903,Amorous,Simulation,PC,Snaggletooth Studios,Team Amorous,,,,,
+904,Anata no Yonkihi Kyoudoutan,Misc,NS,Unknown,Nippon Ichi Software,,,,,
+905,Angels of Death,Adventure,NS,Active Gaming Media,Stardust KRNKRN,,,,,
+906,Animal Force,Party,PS4,Oasis Games Ltd.,ISVR,,,,,
+907,Animated Jigsaws: Beautiful Japanese Scenery,Puzzle,NS,Rainy Frog,Dico/BottleCube,,,,,
+908,Anodyne,Action-Adventure,PS4,Analgesic Productions,Analgesic Productions,,,,,
+909,Anodyne,Action-Adventure,XOne,Analgesic Productions,Analgesic Productions,,,,,
+910,Antigraviator,Racing,PC,Iceberg Interactive,Cybernetic Walrus,,,,,
+911,Antiquia Lost,Role-Playing,PS4,Kemco,Exe Create Inc.,,,,,
+912,Antventor,Adventure,PC,LoopyMood,LoopyMood,,,,,
+913,AO International Tennis,Sports,PC,Big Ant Studios,Big Ant Studios,,,,,
+914,AO International Tennis,Sports,XOne,Big Ant Studios,Big Ant Studios,,,,,
+915,AO International Tennis,Sports,PS4,Big Ant Studios,Big Ant Studios,,,,,
+916,Aperion Cyberstorm,Shooter,NS,aPriori Digital,aPriori Digital,,,,,
+917,Apex Construct,Action,PC,Fast Travel Games,Fast Travel Games,,,,,
+918,AQUA KITTY UDX,Action,NS,Tikipod,Tikipod,,,,,
+919,Arcade Archives: Crazy Climber,Platform,NS,Hamster Corporation,Hamster,,,,,
+920,Arcade Archives: Double Dragon,Fighting,NS,Taito Corporation,Technos Japan Corporation,,,,,
+921,Arcade Archives: Heroic Episode,Shooter,NS,Hamster Corporation,Irem Corp.,,,,,
+922,Arcade Archives: Kid Niki Radical Ninja,Action,NS,Hamster Corporation,Irem Corp.,,,,,
+923,Arcade Archives: Moon Patrol,Action,NS,Hamster Corporation,Hamster,,,,,
+924,Arcade Archives: Star Force,Action,NS,Hamster Corporation,Hamster,,,,,
+925,ARK Park,Adventure,PC,Snail Games USA,Snail Games USA,,,,,
+926,Artifact,Misc,OSX,Valve Corporation,Valve Corporation,,,,,
+927,Artifact,Misc,Linux,Valve Corporation,Valve Corporation,,,,,
+928,Artifact,Misc,PC,Valve Corporation,Valve Corporation,,,,,
+929,Asdivine Hearts II,Role-Playing,PC,Kemco,Exe Create Inc.,,,,,
+930,Asdivine Hearts II,Role-Playing,XOne,Kemco,Exe Create Inc.,,,,,
+931,Asdivine Hearts II,Role-Playing,And,Kemco,Exe Create Inc.,,,,,
+932,Asdivine Hearts II,Role-Playing,iOS,Kemco,Exe Create Inc.,,,,,
+933,Ashen (2018),Action-Adventure,XOne,Annapurna Interactive,Aurora44,,,,,
+934,Ashen (2018),Action-Adventure,PC,Annapurna Interactive,Aurora44,,,,,
+935,Ashes Cricket,Sports,PS4,Koch Media,Big Ant Studios,,,,,
+936,Assassin's Creed Odyssey: Cloud Version,Action-Adventure,NS,Ubisoft,Ubisoft Quebec,,,,,
+937,Assault Gunners HD Edition,Action,PC,Unknown,SHADE Inc.,,,,,
+938,Assault Gunners HD Edition,Action,PS4,Unknown,SHADE Inc.,,,,,
+939,Astebreed,Shooter,PS4,Unknown,Edelweiss,,,,,
+940,Astebreed,Shooter,NS,Unknown,Edelweiss,,,,,
+941,Asterix and Obelix XXL2,Action-Adventure,PC,Microids,Microids,,,,,
+942,Asterix and Obelix XXL2,Action-Adventure,XOne,Microids,Microids,,,,,
+943,Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings,Role-Playing,PC,Tecmo Koei,Gust,,,,,
+944,ATLAS,MMO,PC,Studio Wildcard,Studio Wildcard,,,,,
+945,ATOMIK: RunGunJumpGun,Action,NS,Gambitious,ThirtyThree,,,,,
+946,Attack of the Earthlings,Strategy,PC,Junkfish Limited,Team Junkfish,,,,,
+947,AWAY: Journey to the Unexpected,Action-Adventure,NS,PLAYDIUS,Aurelien Regard Games,,,,,
+948,Azkend 2: The World Beneath,Puzzle,NS,10tons,10tons Ltd,,,,,
+949,Bad North,Action,NS,Raw Fury,Plausible Concept,,,,,
+950,Banner Saga 3,Role-Playing,NS,Versus Evil,Stoic Studio,,,,,
+951,Baseball Riot,Puzzle,NS,10tons Ltd,10tons Ltd,,,,,
+952,BASIC Programming Language,Misc,Int,Unknown,APh Technological Consulting,,,,,
+953,Battle Brothers,Role-Playing,PC,Unknown,Overhype Studios,,,,,
+954,Bayonetta,Action,NS,Nintendo,PlatinumGames,,,,,
+955,Beat Saber,Music,PS4,Beat Games,Beat Games,,,,,
+956,BINGO for Nintendo Switch,Party,NS,Starsign,Starsign,,,,,
+957,Biohazard 7: Resident Evil - Cloud Version,Action,NS,Capcom,Capcom,,,,,
+958,bit Dungeon II,Action,PC,Unknown,Kinto Games LLC,,,,,
+959,Bit Dungeon Plus,Role-Playing,NS,Dolores Entertainment SL,Dolores Entertainment SL,,,,,
+960,Black Hole,Action,NS,Dufgames,Dufgames,,,,,
+961,Blast Zone! Tournament,Strategy,PC,Victory Lap Games,Victory Lap Games,,,,,
+962,Blasters of the Universe,Shooter,PS4,Secret Location,Secret Location,,,,,
+963,BlazBlue: Cross Tag Battle,Fighting,PC,Arc System Works,Arc System Works,,,,,
+964,Bleed 2,Action,PS4,Digerati,Bootdisk Revolution,,,,,
+965,Bleed 2,Action,NS,Digerati,Bootdisk Revolution,,,,,
+966,Bloodstained: Curse of the Moon,Platform,PSV,Inti Creates,Inti Creates,,,,,
+967,Bloodstained: Curse of the Moon,Platform,PC,Inti Creates,Inti Creates,,,,,
+968,Bloodstained: Curse of the Moon,Platform,XOne,Unknown,Inti Creates,,,,,
+969,Bloodstained: Curse of the Moon,Platform,NS,Inti Creates,Inti Creates,,,,,
+970,Bloodstained: Curse of the Moon,Platform,3DS,Unknown,Inti Creates,,,,,
+971,Boku to Nurse no Kenshuu Nisshi,Visual Novel,PSV,Entergram,Entergram,,,,,
+972,Boku to Nurse no Kenshuu Nisshi,Visual Novel,PC,Entergram,Entergram,,,,,
+973,Bomb Chicken,Action,NS,Nitrome,Nitrome,,,,,
+974,Bomber Crew,Simulation,XOne,Curve Digital,Runner Duck,,,,,
+975,Bombslinger,Action,NS,Plug In Digital,Mode4,,,,,
+976,Bombslinger,Action,PC,Plug In Digital,Mode4,,,,,
+977,Brawl,Platform,NS,QubicGames,QubicGames,,,,,
+978,Brawlhalla,Fighting,PC,Unknown,Blue Mammoth Games,,,,,
+979,Brawlout,Fighting,PC,Unknown,Angry Mob Games,,,,,
+980,Brawlout,Fighting,XOne,Unknown,Angry Mob Games,,,,,
+981,Brawlout,Fighting,PS4,Unknown,Angry Mob Games,,,,,
+982,Bridge Constructor Portal,Simulation,NS,Headup Games,ClockStone,,,,,
+983,Bridge Constructor Portal,Simulation,iOS,Unknown,ClockStoneSoftware,,,,,
+984,Broforce,Action,NS,Devolver Digital,Free Lives Games,,,,,
+985,Broken Sword 5: The Serpent's Curse,Adventure,NS,Revolution Software,Revolution Software,,,,,
+986,Capcom Beat 'Em Up Bundle,Fighting,XOne,Capcom,Capcom,,,,,
+987,Capcom Beat 'Em Up Bundle,Fighting,PC,Capcom,Capcom,,,,,
+988,Carcassonne,Board Game,NS,Asmodee Digital,Asmodee Digital,,,,,
+989,Castle of Heart,Platform,NS,7Levels,7Levels,,,,,
+990,Castlevania Anniversary Collection,Action-Adventure,PS4,Unknown,Konami,,,,,
+991,Castlevania Anniversary Collection,Action-Adventure,NS,Unknown,Konami,,,,,
+992,Castlevania Anniversary Collection,Action-Adventure,XOne,Unknown,Konami,,,,,
+993,Cat Goes Fishing,Simulation,PC,Unknown,Cat5Games,,,,,
+994,Cataegis : The White Wind,Action,PC,Unknown,Acido Cinza,,,,,
+995,Celeste,Platform,NS,Matt Makes Games Inc.,Matt Makes Games Inc.,,,,,
+996,Celeste,Platform,PS4,Matt Makes Games Inc.,Matt Thorson,,,,,
+997,Celeste,Platform,XOne,Matt Makes Games Inc.,Matt Thorson,,,,,
+998,Celeste,Platform,PC,Matt Makes Games Inc.,Matt Thorson,,,,,
+999,Chimparty,Party,PS4,Sony Interactive Entertainment,NapNok Games,,,,,
+1000,ChromaGun,Shooter,NS,Pixel Maniacs,Pixel Maniacs,,,,,
+1001,Cities: Skylines,Simulation,NS,Paradox Interactive,Colossal Order,,,,,
+1002,ClusterPuck 99,Sports,NS,Coatsink Software,PHL Collective,,,,,
+1003,Clustertruck,Misc,NS,TinyBuild Games,Landfall,,,,,
+1004,Coffin Dodgers,Racing,NS,Wales Interactive Ltd.,Milky Tea,,,,,
+1005,Colony Survival,Strategy,PC,Unknown,Pipliz,,,,,
+1006,"Cook, Serve, Delicious! 2!!",Simulation,PS4,Vertigo Gaming Inc.,Vertigo Gaming Inc.,,,,,
+1007,Crayola Scoot,Sports,PC,Outright Games,Outright Games,,,,,
+1008,Crossing Souls,Action-Adventure,PS4,Devolver Digital,Fourattic,,,,,
+1009,Crosswords II,Misc,Int,Unknown,Mattel,,,,,
+1010,Crosswords III,Misc,Int,Unknown,Mattel,,,,,
+1011,Crypt of the NecroDancer: Nintendo Switch Edition,Music,NS,Brace Yourself Games,Brace Yourself Games,,,,,
+1012,Cultist Simulator,Simulation,PC,Humble Bundle,Weather Factory,,,,,
+1013,Cup Critters,Action,3DS,Unknown,RCMADIAX,,,,,
+1014,D.S.: Dal Segno,Visual Novel,PS4,Entergram,Entergram,,,,,
+1015,D/Generation HD,Puzzle,NS,West Coast Software,West Coast Software,,,,,
+1016,Dakar 18,Racing,PC,Deep Silver,Bigmoon Entertainment,,,,,
+1017,Damascus Gear: Operation Tokyo,Role-Playing,NS,Arc System Works,Arc System Works,,,,,
+1018,Dandara,Action,NS,Raw Fury,Long Hat House,,,,,
+1019,Danmaku Unlimited 3,Action,NS,Doragon Entertainment,Doragon Entertainment,,,,,
+1020,Darkest Dungeon,Role-Playing,XOne,Red Hook Studios,Red Hook Studios,,,,,
+1021,Dauntless,Role-Playing,PC,Phoenix Labs,Phoenix Labs,,,,,
+1022,de Blob 2,Platform,PS4,THQ Nordic,THQ Nordic,,,,,
+1023,Dead Cells,Action,XOne,Merge Games,Motion Twin,,,,,
+1024,Defoliation,Puzzle,NS,Cosen,Cosen,,,,,
+1025,Degrees of Separation,Puzzle,PC,Unknown,Moondrop,,,,,
+1026,Degrees of Separation,Puzzle,PS4,Unknown,Moondrop,,,,,
+1027,Degrees of Separation,Puzzle,XOne,Unknown,Moondrop,,,,,
+1028,Deiland,Strategy,PS4,Unknown,Chibig,,,,,
+1029,DELTARUNE,Adventure,PC,Toby Fox,Toby Fox,,,,,
+1030,Delver,Role-Playing,PC,Unknown,Priority Interrupt,,,,,
+1031,Desert Child,Role-Playing,NS,Akupara Games,Oscar Brittain,,,,,
+1032,Detention,Adventure,NS,Coconut Island Games,Red Candle Games,,,,,
+1033,Dev Guy,Adventure,PC,Unknown,Daniel Jonathan Bourke,,,,,
+1034,Disc Jam,Sports,NS,High Horse Entertainment,High Horse Entertainment,,,,,
+1035,Disco Dodgeball Remix,Sports,NS,Unknown,Zen Studios,,,,,
+1036,Disco Dodgeball Remix,Sports,PS4,Unknown,Zen Studios,,,,,
+1037,Disco Dodgeball Remix,Sports,XOne,Unknown,Zen Studios,,,,,
+1038,Disneyland Adventures,Action-Adventure,PC,THQ Nordic,Frontier Developments,,,,,
+1039,Donut County,Adventure,PS4,Annapurna Interactive,Ben Esposito,,,,,
+1040,Donut County,Puzzle,NS,Annapurna Interactive,Ben Esposito,,,,,
+1041,Door Kickers: Action Squad,Strategy,PC,KillHouse Games,KillHouse Games,,,,,
+1042,Downward Spiral: Horus Station,Action-Adventure,PS4,3rd Eye Studios,3rd Eye Studios,,,,,
+1043,Downward Spiral: Horus Station,Action-Adventure,PC,3rd Eye Studios,3rd Eye Studios,,,,,
+1044,Dragalia Lost,Role-Playing,And,Nintendo,Cygames,,,,,
+1045,Dragalia Lost,Role-Playing,iOS,Nintendo,Cygames,,,,,
+1046,DragoDino,Adventure,NS,Plug In Digital,Plug In Digital,,,,,
+1047,Dragon Quest X: All in One Package Ver.1-4,MMO,WiiU,Square Enix,Square Enix,,,,,
+1048,Dragon Quest X: All in One Package Ver.1-4,MMO,PC,Square Enix,Square Enix,,,,,
+1049,Dragon Sinker,Role-Playing,NS,Kemco,Exe Create Inc.,,,,,
+1050,Draw a Stickman: EPIC 2,Adventure,NS,Hitcents,Hitcents,,,,,
+1051,Dust: An Elysian Tail,Platform,NS,Humble Hearts,Humble Hearts,,,,,
+1052,Dustoff Heli Rescue 2,Action,NS,Rainy Frog,Invictus Games,,,,,
+1053,Dynasty Warriors 9,Action,PC,Tecmo Koei,Omega Force,,,,,
+1054,Earth Wars,Action,NS,One or Eight Inc.,One or Eight Inc.,,,,,
+1055,Earthfall,Action-Adventure,PC,Gearbox Software,Holospark,,,,,
+1056,Earthlock,Role-Playing,NS,Snowcastle Games,CrossFunction,,,,,
+1057,Earthlock: Festival of Magic,Role-Playing,XOne,Unknown,Snowcastle Games,,,,,
+1058,Eastward,Adventure,PC,Chucklefish,Pixpil,,,,,
+1059,EAT BEAT DEADSPIKE-san,Music,NS,Arc System Works,Arc System Works,,,,,
+1060,Echoes+,Shooter,PC,Unknown,Binary Zoo,,,,,
+1061,Enchanting Mahjong Match,Puzzle,NS,D3Publisher,Orgesta,,,,,
+1062,Energy Balance,Puzzle,NS,Sometimes You,Sometimes You,,,,,
+1063,Energy Invasion,Puzzle,NS,Evgeniy Kolpakov,Sometimes You,,,,,
+1064,Enigmatis 2: The Mists Of Ravenwood,Puzzle,NS,Artifex Mundi sp. z o.o.,Artifex Mundi sp. z o.o.,,,,,
+1065,Enigmatis 3: The Shadow Of Karkhala,Puzzle,PS4,Big Fish Games,Artifex Mundi sp. z o.o.,,,,,
+1066,Escape Trick: 35 Fateful Enigmas,Adventure,NS,D3 Publisher,D3 Publisher,,,,,
+1067,Everspace,Shooter,PS4,Badland Games,Rockfish Games,,,,,
+1068,Fable Fortune,Board Game,XOne,Mediatonic,Mediatonic,,,,,
+1069,Fable Fortune,Board Game,PC,Mediatonic,Mediatonic,,,,,
+1070,Fairyland: Blackberry Warrior,Strategy,PC,Naarassusi Publisher,Naarassusi Game,,,,,
+1071,Fairyland: Chronicle,Strategy,PC,Naarassusi Publisher,Naarassusi Game,,,,,
+1072,Fairyland: Fairylines,Strategy,PC,Naarassusi Publisher,Naarassusi Game,,,,,
+1073,Fairyland: Power Dice,Strategy,PC,Naarassusi Publisher,Naarassusi Game,,,,,
+1074,Fairyland: The Guild,Strategy,PC,Naarassusi Publisher,Naarassusi Game,,,,,
+1075,Fall of Light,Action,NS,Unknown,RuneHeads,,,,,
+1076,Fantasy Hero: Unsigned Legacy,Role-Playing,NS,Arc System Works,Arc System Works,,,,,
+1077,Fantasy Strike,Fighting,NS,Sirlin Games,Sirlin Games,,,,,
+1078,FAR: Lone Sails,Adventure,PC,Mixtvision,Okomotive,,,,,
+1079,FAR: Lone Sails,Adventure,OSX,Mixtvision,Okomotive,,,,,
+1080,Farm Expert 2018,Simulation,NS,SimFabric,SimFabric,,,,,
+1081,Fe,Adventure,NS,EA Originals,Zoink Games,,,,,
+1082,Fear Effect Sedna,Role-Playing,NS,Square Enix,Sushee,,,,,
+1083,FIFA 19,Sports,PC,Electronic Arts,EA Sports,,,,,
+1084,Fighting EX Layer,Fighting,PS4,Arika,Arika,,,,,
+1085,Fighting EX Layer,Fighting,PC,Unknown,Arika,,,,,
+1086,Final Fantasy XV Multiplayer: Comrades,Role-Playing,PS4,Square Enix,Square Enix,,,,,
+1087,Final Fantasy XV Multiplayer: Comrades,Role-Playing,XOne,Square Enix,Square Enix,,,,,
+1088,Final Fantasy XV Pocket Edition,Role-Playing,iOS,Square Enix,Square Enix,,,,,
+1089,Final Fantasy XV Pocket Edition,Role-Playing,And,Square Enix,Square Enix,,,,,
+1090,Final Fantasy XV Pocket Edition,Role-Playing,PC,Square Enix,Square Enix,,,,,
+1091,Final Fantasy XV Pocket Edition HD,Role-Playing,PS4,Square Enix,Square Enix,,,,,
+1092,Final Fantasy XV Pocket Edition HD,Role-Playing,XOne,Square Enix,Square Enix,,,,,
+1093,Final Fantasy XV Pocket Edition HD,Role-Playing,NS,Square Enix,Square Enix,,,,,
+1094,Firewatch,Adventure,NS,Campo Santo,Campo Santo,,,,,
+1095,Fishing Sim World,Simulation,PC,Dovetail Games,Dovetail Games,,,,,
+1096,Flashback,Platform,XOne,Microids,Paul Cuisset,,,,,
+1097,Flinthook,Platform,NS,Tribute Games,Tribute Games,,,,,
+1098,Floor Kids,Sports,NS,MERJ Media,MERJ Media,,,,,
+1099,Floral Flowlove,Visual Novel,PS4,Entergram,Entergram,,,,,
+1100,Floral Flowlove,Visual Novel,PC,Entergram,Entergram,,,,,
+1101,Forgotton Anne,Action-Adventure,PS4,Square Enix,ThroughLine Games,,,,,
+1102,Forza Horizon 4,Racing,PC,Microsoft Studios,Playground Games,,,,,
+1103,FOX n FORESTS,Platform,PC,EuroVideo Medien,Bonus Level Entertainment,,,,,
+1104,Fran Bow,Adventure,Linux,Unknown,Killmonday Games,,,,,
+1105,Fran Bow,Adventure,And,Unknown,Killmonday Games,,,,,
+1106,Fran Bow,Adventure,iOS,Unknown,Killmonday Games,,,,,
+1107,Frantics,Party,PS4,Sony Interactive Entertainment,NapNok Games,,,,,
+1108,Frederic 2: Evil Strikes Back,Misc,NS,Forever Entertainment S.A.,Forever Entertainment S.A.,,,,,
+1109,Freedom Planet,Platform,NS,Galaxy Trail,Galaxy Trail,,,,,
+1110,Furi,Action,NS,The Game Bakers,The Game Bakers,,,,,
+1111,Gal*Gunvolt Burst,Action,PS4,Inti Creates,Inti Creates,,,,,
+1112,Game Dev Story,Strategy,NS,Kairosoft Co. Ltd,Kairosoft Co. Ltd,,,,,
+1113,Games of Glory,Shooter,PC,Unknown,Lightbulb Crew,,,,,
+1114,Garage,Action,NS,TinyBuild Games,Zombie Dynamics,,,,,
+1115,Gear.Club Unlimited 2,Racing,NS,Microids,Eden Games,,,,,
+1116,Gekido Kintaro's Revenge,Action,NS,Naps Team,Naps Team,,,,,
+1117,Gem Smashers,Puzzle,NS,TREVA Entertainment,TREVA Entertainment,,,,,
+1118,Gotcha Racing 2nd,Racing,NS,Arc System Works,Arc System Works,,,,,
+1119,Grand Prix Rock 'N Racing,Racing,NS,EnjoyUp Games,EnjoyUp Games,,,,,
+1120,Gravel,Racing,PC,Milestone S.r.l.,Milestone S.r.l,,,,,
+1121,Grid Mania,Puzzle,NS,QubicGames,FX Valley,,,,,
+1122,Grim Fandango Remastered,Puzzle,NS,Double Fine Productions,Double Fine Productions,,,,,
+1123,GRIP: Combat Racing,Racing,PC,U&I Entertainment,Caged Element,,,,,
+1124,GRIP: Combat Racing,Racing,XOne,U&I Entertainment,Caged Element,,,,,
+1125,GRIS,Adventure,NS,Devolver Digital,Nomada Studio,,,,,
+1126,Guilt Battle Arena,Party,NS,ForwardXP,Invincible Cat,,,,,
+1127,Gunhouse,Puzzle,NS,Other Ocean Interactive,Necrosoft Games,,,,,
+1128,"Guns, Gore & Cannoli 2",Action,PC,Crazy Monkey,Crazy Monkey Studios,,,,,
+1129,Gwent: The Witcher Card Game,Misc,PC,CD Projekt Red Studio,CD Projekt Red Studio,,,,,
+1130,Gwent: The Witcher Card Game,Misc,PS4,CD Projekt Red Studio,CD Projekt Red Studio,,,,,
+1131,Gwent: The Witcher Card Game,Misc,XOne,CD Projekt Red Studio,CD Projekt Red Studio,,,,,
+1132,Hakuoki: Edo Blossoms,Visual Novel,PSV,Idea Factory,Otomate,,,,,
+1133,Halloween Forever,Platform,PSV,Unknown,Imaginary Monsters,,,,,
+1134,Heartbound,Adventure,PC,Pirate Software,Pirate Software,,,,,
+1135,Her Majesty's SPIFFING,Adventure,NS,Billy Goat Entertainment,Billy Goat Entertainment,,,,,
+1136,Hero of the Kingdom,Role-Playing,PC,Unknown,Lonely Troops,,,,,
+1137,Heroes of SoulCraft - Arcade MOBA,Action,PC,Unknown,MobileBits GmbH,,,,,
+1138,Hitman 2,Action-Adventure,PC,Warner Bros. Interactive Entertainment,IO Interactive,,,,,
+1139,Hollow,Adventure,NS,Forever Entertainment S.A.,MMEU,,,,,
+1140,Hollow Knight,Action-Adventure,NS,Team Cherry,Team Cherry,,,,,
+1141,Holy Potatoes! A Weapon Shop?!,Simulation,PS4,Unknown,Daylight Studios,,,,,
+1142,Holy Potatoes! A Weapon Shop?!,Simulation,NS,Unknown,Daylight Studios,,,,,
+1143,Home Sweet Home (2017),Adventure,XOne,Mastiff,"YGGDRAZIL GROUP CO.,LTD",,,,,
+1144,Honey Select,Misc,PC,Unknown,Illusion,,,,,
+1145,Horizon Chase Turbo,Racing,PS4,AQUIRIS,Aquiris Game Studio,,,,,
+1146,Horizon Chase Turbo,Racing,XOne,AQUIRIS,Aquiris Game Studio,,,,,
+1147,Horizon Chase Turbo,Racing,PC,AQUIRIS,Aquiris Game Studio,,,,,
+1148,Horizon Chase Turbo,Racing,NS,AQUIRIS,Aquiris Game Studio,,,,,
+1149,Horizon Shift,Shooter,PC,Unknown,Flump Studios,,,,,
+1150,Horror Hospital,Misc,PC,Unknown,KNP,,,,,
+1151,Huntdown,Action,NS,Coffee Stain Studios,Easy Trigger Games,,,,,
+1152,Hyper Light Drifter - Special Edition,Role-Playing,NS,Abylight,Heart Machine,,,,,
+1153,Hyperdimension Neptunia Re;Birth2 Sisters Generation,Role-Playing,PC,Unknown,Idea Factory,,,,,
+1154,"I, Zombie",Puzzle,NS,Awesome Games Studio,Awesome Games Studio,,,,,
+1155,Iconoclasts,Action-Adventure,PSV,Bifrost Entertainment,Joakim Sandberg,,,,,
+1156,Iconoclasts,Action-Adventure,PS4,Bifrost Entertainment,Joakim Sandberg,,,,,
+1157,Iconoclasts,Action-Adventure,PC,Bifrost Entertainment,Joakim Sandberg,,,,,
+1158,If My Heart Had Wings,Visual Novel,PC,Unknown,MoeNovel,,,,,
+1159,If My Heart Had Wings -Flight Diary-,Visual Novel,PC,Unknown,MoeNovel,,,,,
+1160,Immortal Redneck,Shooter,XOne,CremaGames,CremaGames,,,,,
+1161,Immortal Redneck,Shooter,PS4,CremaGames,CremaGames,,,,,
+1162,Immortal Redneck,Shooter,NS,CremaGames,CremaGames,,,,,
+1163,Immortal Unchained,Role-Playing,PC,Unknown,Toadman Interactive,,,,,
+1164,Indivisible,Role-Playing,NS,505 Games,Lab Zero Games,,,,,
+1165,InnerSpace,Adventure,NS,"Aspyr Media, Inc.",PolyKnight Games,,,,,
+1166,InnerSpace,Adventure,PC,Aspyr,PolyKnight Games,,,,,
+1167,InnerSpace,Adventure,PS4,Aspyr,PolyKnight Games,,,,,
+1168,InnerSpace,Adventure,XOne,Aspyr,PolyKnight Games,,,,,
+1169,INSIDE,Adventure,NS,Playdead,Playdead,,,,,
+1170,Insurgency: Sandstorm,Shooter,PC,Focus Home Interactive,New World Interactive,,,,,
+1171,Into the Breach,Strategy,PC,Subset Games,Subset Games,,,,,
+1172,Into the Breach,Strategy,NS,Subset Games,Subset Games,,,,,
+1173,Island Flight Simulator,Simulation,NS,Libredia Entertainment,Caipirinha Games,,,,,
+1174,Jagged Alliance: Rage!,Strategy,PC,HandyGames,Cliffhanger Productions,,,,,
+1175,Joe Dever's Lone Wolf,Role-Playing,NS,Forge Reply,Forge Reply,,,,,
+1176,Joggernauts,Platform,NS,Unknown,Space Mace,,,,,
+1177,Joggernauts,Platform,PC,Unknown,Space Mace,,,,,
+1178,Johnny Turbo's Arcade: Bad Dudes,Action,NS,FTE Games,Flying Tiger Entertainment,,,,,
+1179,Johnny Turbo's Arcade: Gate of Doom,Action,NS,FTE Games,Flying Tiger Entertainment,,,,,
+1180,Jump Force,Fighting,XOne,Bandai Namco Entertainment,Spike Chunsoft,,,,,
+1181,Just Cause 4,Action-Adventure,PC,Square Enix,Avalanche Studios,,,,,
+1182,Just Shapes & Beats,Music,NS,Berzerk Studio,Berzerk Studio,,,,,
+1183,Katamari Damacy Reroll,Action,PC,Bandai Namco Entertainment,Bandai Namco Games,,,,,
+1184,Kentucky Route Zero: TV Edition,Adventure,NS,Annapurna Interactive,Cardboard Computer,,,,,
+1185,Kingdom Rush Origins,Strategy,PC,Ironhide Game Studio,Ironhide Game Studio,,,,,
+1186,Kingdom Two Crowns,Strategy,NS,Raw Fury,Noio,,,,,
+1187,Knowledge is Power: Decades,Party,PS4,Sony Interactive Entertainment,Wish Studio,,,,,
+1188,Kona,Adventure,NS,Koch Media,Parabole,,,,,
+1189,Last Day of June,Adventure,NS,505 Games,505 Games,,,,,
+1190,Layers of Fear: Legacy,Adventure,NS,Bloober Team S.A.,Bloober Team,,,,,
+1191,LEGO The Incredibles,Action,PC,Warner Bros. Interactive Entertainment,Traveller's Tales,,,,,
+1192,Legrand Legacy: Tale of the Fatebounds,Role-Playing,PC,Another Indie,Semisoft,,,,,
+1193,Life is Strange 2,Adventure,PC,Square Enix,Dotnod Entertainment,,,,,
+1194,Life is Strange 2,Adventure,XOne,Square Enix,Dotnod Entertainment,,,,,
+1195,Life is Strange 2,Adventure,PS4,Square Enix,Dotnod Entertainment,,,,,
+1196,Light Fall,Platform,NS,Bishop Games,Bishop Games,,,,,
+1197,Light Fingers,Action,NS,Numizmatic,Numizmatic,,,,,
+1198,Little Triangle,Action,NS,KONANDENKI,Cotton Game,,,,,
+1199,Lost Lands: Ice Spell,Adventure,PC,FIVE-BN GAMES,FIVE-BN GAMES,,,,,
+1200,Lost Lands: Mistakes of the Past,Adventure,PC,FIVE-BN GAMES,FIVE-BN GAMES,,,,,
+1201,Lumines Remastered,Puzzle,NS,Enhance,Resonair,,,,,
+1202,Mad Carnage,Strategy,NS,QubicGames,QubicGames,,,,,
+1203,Manifold Garden,Puzzle,PS4,William Chyr Studio,William Chyr Studio,,,,,
+1204,Mark of the Ninja: Remastered,Action,NS,Klei Entertainment,Klei Entertainment,,,,,
+1205,Marooners,Misc,PS4,M2H,M2H,,,,,
+1206,Marooners,Misc,XOne,M2H,M2H,,,,,
+1207,Membrane,Puzzle,NS,Perfect Hat,Perfect Hat,,,,,
+1208,Meow Motors,Racing,PC,ArtVostok,ArtVostok,,,,,
+1209,Mercenary Kings Reloaded,Action,NS,Tribute Games,Tribute Games,,,,,
+1210,Metal Gear Survive,Action,PC,Konami Digital Entertainment,Konami Digital Entertainment,,,,,
+1211,Metal!,Misc,NS,DMM Games,DMM Games,,,,,
+1212,Metropolis: Lux Obscura,Puzzle,NS,Sometimes You,Sometimes You,,,,,
+1213,Millie,Puzzle,NS,Forever Entertainment S.A.,Forever Entertainment S.A.,,,,,
+1214,Minit,Adventure,PS4,Devolver Digital,"JW, Kitty, Jukio, and Dom",,,,,
+1215,Monster Boy and the Cursed Kingdom,Platform,XOne,FDG Entertainment,Game Atelier,,,,,
+1216,Moonlighter,Role-Playing,PC,11 bit studios,Digital Sun,,,,,
+1217,Moonlighter,Role-Playing,XOne,11 bit studios,Digital Sun,,,,,
+1218,Moorhuhn Knights & Castles,Strategy,NS,Young Fun Studio,Young Fun Studio,,,,,
+1219,Moss,Adventure,PS4,Perp Games,Polyarc,,,,,
+1220,MotoGP 18,Racing,PS4,Milestone S.r.l.,Milestone S.r.l,,,,,
+1221,MotoGP 18,Racing,XOne,Milestone S.r.l.,Milestone S.r.l,,,,,
+1222,MotoGP 18,Racing,NS,Milestone S.r.l.,Milestone S.r.l,,,,,
+1223,Mulaka,Action-Adventure,NS,Lienzo,Lienzo,,,,,
+1224,MX vs ATV All Out,Racing,PC,THQ Nordic,Rainbow Studios,,,,,
+1225,MXGP Pro,Racing,PC,Milestone S.r.l.,Milestone S.r.l.,,,,,
+1226,My Girlfriend is a Mermaid!?,Visual Novel,PC,Sekai Project,Cosen,,,,,
+1227,My Hero One's Justice,Fighting,PC,Bandai Namco Entertainment,Byking,,,,,
+1228,My Little Riding Champion,Sports,PS4,Bigben Interactive,Caipirinha Games,,,,,
+1229,My Little Riding Champion,Sports,PC,Toplitz Productions,Caipirinha Games,,,,,
+1230,My Little Riding Champion,Sports,XOne,Bigben Interactive,Caipirinha Games,,,,,
+1231,My Memory of Us,Adventure,PS4,IMGN PRO,Juggler Games,,,,,
+1232,My Memory of Us,Adventure,XOne,IMGN PRO,Juggler Games,,,,,
+1233,My Memory of Us,Adventure,PC,IMGN PRO,Juggler Games,,,,,
+1234,N.E.R.O.: Nothing Ever Remains Obscure,Adventure,PS4,Soedesco,Storm in a Teacup,,,,,
+1235,NBA 2K19,Sports,PC,2K Sports,Visual Concepts,,,,,
+1236,NBA Playgrounds,Sports,NS,Saber Interactive,Saber Interactive,,,,,
+1237,Nefarious,Platform,NS,Digerati,StarBlade,,,,,
+1238,Nekopara,Visual Novel,NS,Sekai Project,Neko Works,,,,,
+1239,Neonwall,Action,NS,JanduSoft S.L.,JanduSoft,,,,,
+1240,Next Up Hero,Action,NS,"Aspyr Media, Inc.",Digital Continue,,,,,
+1241,Next Up Hero,Action,XOne,Aspyr,Digital Continue,,,,,
+1242,Next Up Hero,Action,PS4,Aspyr,Digital Continue,,,,,
+1243,Next Up Hero,Action,PC,Aspyr,Digital Continue,,,,,
+1244,Nidhogg 2,Action,XOne,Messhof,Messhof,,,,,
+1245,NieR: Automata,Role-Playing,XOne,Square Enix,PlatinumGames,,,,,
+1246,Night In The Woods,Adventure,NS,Finji,Infinite Fall,,,,,
+1247,Nightmare Boy,Action,NS,Badland Games,The Vanir Project,,,,,
+1248,NO THING,Action,NS,Forever Entertainment S.A.,Forever Entertainment S.A.,,,,,
+1249,Nuclien,Puzzle,NS,Springloaded,Springloaded,,,,,
+1250,Octogeddon,Action,PC,All Yes Good,All Yes Good,,,,,
+1251,Of Mice and Sand: Revised,Strategy,NS,Arc System Works,Arc System Works,,,,,
+1252,Oh...Sir! The Hollywood Roast,Simulation,NS,Gambitious,Gambitious,,,,,
+1253,Oh...Sir! The Insult Simulator,Simulation,NS,Gambitious,Gambitious,,,,,
+1254,Old Man's Journey,Puzzle,NS,Broken Rules,Broken Rules,,,,,
+1255,Omega Strike,Shooter,PS4,Digerati,Woblyware,,,,,
+1256,Omensight,Action,PS4,SpearHead Games,Spearhead Games,,,,,
+1257,One Eyed Kutkh,Adventure,NS,Sometimes You,Sometimes You,,,,,
+1258,Onimusha Warlords,Action,XOne,Capcom,Capcom,,,,,
+1259,Onimusha Warlords,Action,PS4,Capcom,Capcom,,,,,
+1260,Ooblets,Simulation,PC,Double Fine Presents,Glumberland,,,,,
+1261,OPUS: Rocket of Whispers,Adventure,NS,Flyhigh Works,SIGONO,,,,,
+1262,Outlast II,Action,NS,Red Barrels,Red Barrels,,,,,
+1263,Outlast: Bundle of Terror,Adventure,NS,Red Barrels,Red Barrels,,,,,
+1264,Override: Mech City Brawl,Action-Adventure,PC,Modus Games,The Balance Inc,,,,,
+1265,Owlboy,Platform,XOne,D-Pad Studio,D-Pad Studios,,,,,
+1266,Pac-Man: Championship Edition 2 Plus,Action,NS,Bandai Namco Entertainment,Bandai Namco,,,,,
+1267,Packet Queen #,Puzzle,NS,Studio F-Sharp,"INFOARISE Co., Ltd.",,,,,
+1268,Paladins: Champions of the Realm,Shooter,NS,Hi-Rez Studios,Hi-Rez Studios,,,,,
+1269,Paladins: Champions of the Realm,Shooter,PC,Hi-Rez Studios,Hi-Rez Studios,,,,,
+1270,Paper Wars: Cannon Fodder Devastated,Action,NS,iFun4all,iFun4all,,,,,
+1271,Paranautical Activity,Shooter,NS,Digerati,Digerati,,,,,
+1272,Past Cure,Action,PC,Phantom 8 Studio,Phantom 8 Studio,,,,,
+1273,Paw Patrol on a Roll,Platform,3DS,Outright Games,Outright Games,,,,,
+1274,Paw Patrol on a Roll,Platform,PC,Outright Games,Outright Games,,,,,
+1275,Penny-Punching Princess,Misc,PSV,NIS America,Nippon Ichi Software,,,,,
+1276,Persian Nights: Sands Of Wonders,Puzzle,NS,Artifex Mundi sp. z o.o.,Artifex Mundi,,,,,
+1277,Phantasy Star Online 2: Cloud,MMO,NS,Sega,Sega,,,,,
+1278,Pillars of Eternity II: Deadfire,Role-Playing,NS,Versus Evil,Red Cerberus,,,,,
+1279,Pilot Sports,Sports,NS,EuroVideo Medien,Z-Software GmbH,,,,,
+1280,Pixel Puzzles 2: Christmas,Puzzle,PC,DL Softworks,DL Softworks,,,,,
+1281,Pizza Titan Ultra,Action,PS4,Breakfall,Breakfall,,,,,
+1282,PlayerUnknown's Battlegrounds Mobile,Shooter,And,Tencent Games,PUBG Corporation,,,,,
+1283,PlayerUnknown's Battlegrounds Mobile,Shooter,iOS,Tencent Games,PUBG Corporation,,,,,
+1284,Pocket Rumble,Fighting,NS,Chucklefish,Cardboard Robot Games,,,,,
+1285,Pode,Adventure,NS,Henchman & Goon,Henchman & Goon,,,,,
+1286,Poisoft Thud Card,Board Game,NS,Poisoft,Poisoft,,,,,
+1287,Pokemon Quest,Adventure,NS,Nintendo,Game Freak,,,,,
+1288,POOL,Sports,NS,Sabec Limited,Sabec Limited,,,,,
+1289,Pool BILLIARD,Sports,NS,D3Publisher,OHRUSSIA,,,,,
+1290,Pool Panic,Adventure,NS,Adult Swim,Rekim,,,,,
+1291,Premium Pool Arena,Sports,NS,Bigben Interactive,Bigben Interactive,,,,,
+1292,PriPara: All Idol Perfect Stage,Misc,NS,Takara Tomy ARTS,Takara Tomy ARTS,,,,,
+1293,Pro Evolution Soccer 2019,Sports,PC,Konami,Konami,,,,,
+1294,Pro Fishing Simulator,Simulation,PC,Bigben Interactive,Sanuk Games,,,,,
+1295,Q.U.B.E. 2,Puzzle,PC,Trapped Nerve Games,Toxic Games,,,,,
+1296,Qbik,Puzzle,NS,Forever Entertainment S.A.,Norbert Palacz,,,,,
+1297,R-Type Dimensions EX,Shooter,NS,Tozai Games,Tozai Games,,,,,
+1298,R-Type Dimensions EX,Shooter,PC,Tozai Games,Tozai Games,,,,,
+1299,R-Type Dimensions EX,Shooter,PS4,Tozai Games,Tozai Games,,,,,
+1300,Radiation Island,Adventure,NS,Atypical Games,Atypical Games,,,,,
+1301,Rally Racers,Racing,NS,System 3,System 3 Software,,,,,
+1302,Realpolitiks,Simulation,NS,Jujubee S.A.,Jujubee S.A.,,,,,
+1303,ReCore: Definitive Edition,Action-Adventure,PC,Microsoft Studios,Armature Studio,,,,,
+1304,Reigns: Kings & Queens,Role-Playing,NS,Devolver Digital,Nerial,,,,,
+1305,Reverie,Adventure,PSV,Rainbite,Chronicle Games,,,,,
+1306,Ride 3,Racing,PC,Bandai Namco Entertainment,Milestone S.r.l.,,,,,
+1307,RollerCoaster Tycoon Adventures,Simulation,NS,Atari,Nvizzio Creations,,,,,
+1308,Runbow,Platform,NS,Headup Games,13AM Games,,,,,
+1309,Rush: A Disney Pixar Adventure,Adventure,PC,THQ Nordic,Asobo Studio,,,,,
+1310,Rust,Action-Adventure,Linux,Facepunch Studios,Facepunch Studios,,,,,
+1311,Rusty Lake Paradise,Adventure,PC,Rusty Lake,Rusty Lake,,,,,
+1312,Salary Man Escape VR,Puzzle,PS4,Oasis Games Ltd.,Red Accent Studios,,,,,
+1313,Samurai Aces,Action,NS,Zerodiv,ZeroDiv,,,,,
+1314,Sausage Sports Club,Platform,NS,Luckshot Games,Luckshot Games,,,,,
+1315,Save me Mr Tako: Tasukete Tako-San,Platform,NS,Nicalis,Christophe Galati,,,,,
+1316,Scintillatron 4096,Shooter,PSV,kFunction Ltd,kFunction Ltd,,,,,
+1317,Sea of Solitude,Adventure,PC,Electronic Arts,Jo-Mei Games,,,,,
+1318,Secret of Mana,Role-Playing,PC,Square Enix,Square Enix,,,,,
+1319,Seeking Dawn,Shooter,PC,Multiverse,Multiverse Entertainment,,,,,
+1320,Senran Kagura Reflexions,Adventure,NS,Xseed Games,HONEY PARADE GAMES,,,,,
+1321,Senran Kagura: Peach Beach Splash,Action,PC,Xseed Games,Tamsoft,,,,,
+1322,Sephirothic Stories,Role-Playing,iOS,Kemco,Exe Create Inc.,,,,,
+1323,Sephirothic Stories,Role-Playing,And,Kemco,Exe Create Inc.,,,,,
+1324,Session,Simulation,XOne,Crea-ture Studios,Crea-ture Studios,,,,,
+1325,Session,Simulation,PC,Crea-ture Studios,Crea-ture Studios,,,,,
+1326,Shadow Bug,Platform,NS,Muro Studios,Muro Studios,,,,,
+1327,Shadow of the Tomb Raider,Action-Adventure,PC,Square Enix,Eidos Montreal,,,,,
+1328,Shadows Awakening,Role-Playing,PC,Kalypso Media,Games Farm,,,,,
+1329,Shadows: Awakening,Role-Playing,PS4,Kalypso Media,Kalypso Media,,,,,
+1330,Shakedown Hawaii,Action,NS,Vblank Entertainment Inc.,Vblank Entertainment Inc.,,,,,
+1331,Shantae and the Pirate's Curse,Action,NS,WayForward,WayForward,,,,,
+1332,Shenmue I & II,Action-Adventure,PC,Sega,Sega,,,,,
+1333,Shining Resonance Refrain,Role-Playing,PC,Sega,O-TWO inc.,,,,,
+1334,Shu,Platform,NS,Coatsink Software,Coatsink Software,,,,,
+1335,Sid Meier's Civilization VI: Rise and Fall,Strategy,PC,2K Games,Firaxis Games,,,,,
+1336,Sisters In Hotel: Episode 2,Visual Novel,PC,bch waves studio,bch waves studio,,,,,
+1337,Skies of Fury DX,Simulation,NS,Illumination Games,Seed Interactive,,,,,
+1338,Sky Force Anniversary,Shooter,NS,Infinite Dreams Inc.,Infinite Dreams Inc.,,,,,
+1339,Sky Force Reloaded,Shooter,NS,Infinite Dreams Inc.,Infinite Dreams Inc.,,,,,
+1340,Slayaway Camp: Butcher's Cut,Puzzle,NS,Digerati,Digerati,,,,,
+1341,Sling Ming,Platform,NS,Good Night Brave Warrior,Good Night Brave Warrior,,,,,
+1342,SOL DIVIDE: Sword of Darkness,Action,NS,Zerodiv,ZeroDiv,,,,,
+1343,SoulCalibur VI,Fighting,PC,Bandai Namco Games,Project Soul,,,,,
+1344,South Park: The Stick of Truth,Role-Playing,NS,Ubisoft,Obsidian Entertainment,,,,,
+1345,Space Dave,Action,NS,Choice Provisions,Choice Provisions,,,,,
+1346,Spacecats with Lasers,Action,NS,Bitten Toast Games,Bitten Toast Games,,,,,
+1347,Sparkle 3 Genesis,Simulation,NS,Forever Entertainment S.A.,Forever Entertainment S.A.,,,,,
+1348,Spartan,Platform,NS,Sinister Cyclops,Sinister Cyclops,,,,,
+1349,Spiral Splatter,Puzzle,NS,Sometimes You,Sometimes You,,,,,
+1350,Spot The Difference: Ultimate Edition,Action,NS,Sabec Limited,Sabec Limited,,,,,
+1351,Spy Chameleon - RGB Agent,Puzzle,NS,Unfinished Pixel,Unfinished Pixel,,,,,
+1352,Spyro + Crash Remastered Game Bundle,Misc,PS4,Activision,Vicarious Visions|Toys for Bob,,,,,
+1353,Spyro + Crash Remastered Game Bundle,Misc,XOne,Activision,Vicarious Visions|Toys for Bob,,,,,
+1354,State of Decay 2,Action-Adventure,PC,Microsoft Studios,Undead Labs,,,,,
+1355,SteamWorld Dig 2,Platform,3DS,Image & Form Games,Image & Form Games,,,,,
+1356,SteamWorld Dig 2,Platform,XOne,Image & Form Games,Image & Form Games,,,,,
+1357,SteamWorld Dig: A Fistful of Dirt,Platform,NS,Image & Form Games,Image & Form Games,,,,,
+1358,Steep,Sports,NS,Ubisoft,Ubisoft Annecy,,,,,
+1359,Steredenn: Binary Stars,Fighting,NS,Plug In Digital,Pixelnest,,,,,
+1360,Strange Brigade,Shooter,PC,Rebellion Developments,Rebellion Developments,,,,,
+1361,Street Fighter V: Arcade Edition,Fighting,PS4,Capcom,Capcom,,,,,
+1362,Streets of Red: Devil's Dare Deluxe,Action,NS,Secret Base,Secret Base,,,,,
+1363,Strikers 1945 II,Action,NS,Zerodiv,ZeroDiv,,,,,
+1364,SubaraCity,Puzzle,NS,Flyhigh Works,Flyhigh Works,,,,,
+1365,Subsurface Circular,Puzzle,NS,Ant Workshop,Mike Bithell Games,,,,,
+1366,Summer Lesson: Hikari - Allison - Chisato 3 in 1 Game Pack,Misc,PS4,Bandai Namco Entertainment,Bandai Namco Games,,,,,
+1367,Sunset Overdrive,Action,PC,Microsoft Studios,Insomniac Games,,,,,
+1368,Super Chariot,Platform,NS,Unknown,Microids,,,,,
+1369,Super Daryl Deluxe,Action,NS,Dan & Gary Games,Dan & Gary Games,,,,,
+1370,Super Meat Boy,Platform,NS,BlitWorks,Team Meat,,,,,
+1371,Super One More Jump,Platform,NS,SMG Studio,SMG Studio,,,,,
+1372,Super Rocket Shootout,Party,NS,Plug In Digital,Oddly Shaped Pixels,,,,,
+1373,Super Skull Smash GO! 2 Turbo,Platform,PSV,Poppy Works,TACS Games,,,,,
+1374,Super Skull Smash GO! 2 Turbo,Platform,PS4,Poppy Works,TACS Games,,,,,
+1375,Super Skull Smash GO! 2 Turbo,Platform,PC,Poppy Works,TACS Games,,,,,
+1376,Super Sportmatchen,Sports,NS,DANGEN Entertainment,Kaj Forell Video Game Brand,,,,,
+1377,Super Toy Cars,Racing,NS,Eclipse Games,Eclipse Games,,,,,
+1378,Superbrothers: Sword & Sworcery EP,Adventure,NS,Capybara Games,Capybara Games,,,,,
+1379,Superola and the Lost Burgers,Platform,NS,Undergames,Undergames,,,,,
+1380,Swim Out,Puzzle,NS,Lozange Lab,Lozange Lab,,,,,
+1381,Syberia 3,Adventure,NS,Anuman,Anuman Interactive,,,,,
+1382,Tachyon Project,Action,NS,Eclipse Games,Eclipse Games,,,,,
+1383,Tales of the Tiny Planet,Puzzle,NS,Pixelsplit,Pixelsplit,,,,,
+1384,TENGAI,Action,NS,Zerodiv,ZeroDiv,,,,,
+1385,Tennis,Sports,NS,D3Publisher,D3Publisher,,,,,
+1386,Tennis World Tour,Sports,PC,Bigben Interactive,Breakpoint Studio,,,,,
+1387,Tesla vs Lovecraft,Action,NS,10tons,10tons Ltd,,,,,
+1388,The 25th Ward: The Silver Case,Visual Novel,PS4,NIS America,Grasshopper Manufacture,,,,,
+1389,The 25th Ward: The Silver Case,Visual Novel,PC,NIS America,Grasshopper Manufacture,,,,,
+1390,The Adventures of Bertram Fiddle: Episode 1 - A Dreadly Business,Adventure,NS,Chorus Worldwide Games,Rumpus Animation,,,,,
+1391,The Aquatic Adventure of the Last Human,Action-Adventure,PS4,Digerati,YCJY,,,,,
+1392,The Aquatic Adventure of the Last Human,Action-Adventure,XOne,Digerati,YCJY,,,,,
+1393,The Awesome Adventures of Captain Spirit,Adventure,PC,DONTNOD Entertainment,DONTNOD Entertainment,,,,,
+1394,The Awesome Adventures of Captain Spirit,Adventure,XOne,DONTNOD Entertainment,DONTNOD Entertainment,,,,,
+1395,The Awesome Adventures of Captain Spirit,Adventure,PS4,DONTNOD Entertainment,DONTNOD Entertainment,,,,,
+1396,The Banner Saga,Strategy,NS,Versus Evil,Stoic Studio,,,,,
+1397,The Banner Saga 2,Strategy,NS,Versus Evil,Stoic Studio,,,,,
+1398,The Banner Saga 3,Strategy,NS,Versus Evil,Stoic Studio,,,,,
+1399,The Bunker,Adventure,NS,Wales Interactive Ltd.,Wales Interactive Ltd.,,,,,
+1400,The Charming Empire,Adventure,NS,D3Publisher,OperaHouse,,,,,
+1401,The Church in the Darkness,Action-Adventure,PC,Paranoid Productions,Paranoid Productions,,,,,
+1402,The Council,Adventure,PC,Focus Home Interactive,Big Bad Wolf,,,,,
+1403,The Fall Part 2: Unbound,Action-Adventure,NS,Over The Moon,Over the Moon,,,,,
+1404,The Final Station,Action,NS,TinyBuild Games,Do My Best,,,,,
+1405,The friends of Ringo Ishikawa,Action-Adventure,PC,yeo,yeo,,,,,
+1406,The Gardens Between,Puzzle,NS,The Voxel Agents,The Voxel Agents,,,,,
+1407,The Lion's Song,Adventure,NS,Mipumi Games GmbH,Mipumi Games GmbH,,,,,
+1408,The Long Reach,Adventure,NS,Merge Games,Painted Black Games,,,,,
+1409,The Longest 5 Minutes,Action,PC,NIS America,Nippon Ichi Software,,,,,
+1410,The Men of Yoshiwara: Kikuya,Adventure,NS,D3Publisher,D3 Publisher,,,,,
+1411,The Men of Yoshiwara: Ohgiya,Adventure,NS,D3 Publisher,D3 Publisher,,,,,
+1412,The Messenger,Platform,NS,Sabotage,Sabotage,,,,,
+1413,The Mind's Eclipse,Visual Novel,PC,Mind's Eclipse Interactive,Unknown,,,,,
+1414,The Raven Remastered,Adventure,PC,THQ Nordic,KING Art Games,,,,,
+1415,The Room,Puzzle,NS,Team17 Digital Ltd,Fireproof Games,,,,,
+1416,The Swindle,Platform,NS,Curve Digital,Size Five Games,,,,,
+1417,The Talos Principle,Puzzle,XOne,Devolver Digital,Croteam,,,,,
+1418,The Trail: Frontier Challenge,Simulation,NS,Kongregate,22Cans,,,,,
+1419,The Vanishing of Ethan Carter,Adventure,XOne,The Astronauts,The Astronauts,,,,,
+1420,The Walking Dead - A Telltale Series - The Final Season,Adventure,NS,Telltale Games,Telltale Games,,,,,
+1421,This Is the Police 2,Strategy,PC,THQ Nordic,Weappy Studio,,,,,
+1422,Toki Tori,Puzzle,NS,Two Tribes,Two Tribes,,,,,
+1423,Toki Tori 2+,Puzzle,NS,Two Tribes,Two Tribes,,,,,
+1424,TorqueL: Physics Modified Edition,Action,NS,Active Gaming Media,FullPowerSideAttack.com,,,,,
+1425,Totes the Goat,Puzzle,NS,Atooi,Atooi,,,,,
+1426,Tour de France 2018,Simulation,XOne,Focus Home Interactive,Cyanide Studio,,,,,
+1427,TowerFall,Action,NS,Matt Makes Games Inc.,Matt Makes Games Inc.,,,,,
+1428,Track Lab,Music,PS4,Sony Interactive Entertainment,Little Chicken Game Company,,,,,
+1429,Trailblazers,Racing,PC,Rising Star Games,Supergonk,,,,,
+1430,Trailblazers,Racing,XOne,Rising Star Games,Supergonk,,,,,
+1431,Transference,Puzzle,PS4,Ubisoft,Ubisoft Montreal,,,,,
+1432,Transistor,Action-Adventure,NS,Supergiant Games,Supergiant Games,,,,,
+1433,Trine Enchanted Edition,Action,NS,Frozenbyte,Frozenbyte,,,,,
+1434,Tunic,Action-Adventure,PC,Finji,Andrew Shouldice,,,,,
+1435,TurtlePop : Journey to Freedom,Platform,NS,DigiPen Game Studios,Zengami,,,,,
+1436,Twin Robots Ultimate Edition,Platform,NS,Ratalaika Games,Thinice Games,,,,,
+1437,Two Point Hospital,Simulation,PC,Sega,Two Point Studio,,,,,
+1438,Typoman,Puzzle,NS,Wales Interactive Ltd.,Brainseed Factory,,,,,
+1439,UBERMOSH:SANTICIDE,Action,PC,Walter Machado,Walter Machado,,,,,
+1440,Unavowed,Adventure,PC,Wadjet Eye Games,Wadjet Eye Games,,,,,
+1441,Unravel Two,Platform,PS4,Electronic Arts,ColdWood Interactive,,,,,
+1442,Unravel Two,Platform,PC,Electronic Arts,ColdWood Interactive,,,,,
+1443,Unravel Two,Platform,XOne,Electronic Arts,ColdWood Interactive,,,,,
+1444,Unravel Yarny Bundle,Platform,PS4,Electronic Arts,ColdWood Interactive,,,,,
+1445,Unravel Yarny Bundle,Platform,XOne,Electronic Arts,ColdWood Interactive,,,,,
+1446,Urban Trial Playground,Racing,NS,Tate Multimedia,Teyon,,,,,
+1447,V-Rally 4,Racing,PC,Bigben Interactive,Kylotonn,,,,,
+1448,Valkyria Chronicles,Strategy,NS,Sega,Sega,,,,,
+1449,Venture Kid,Platform,PC,Snikkabo AS,FDG Entertainment,,,,,
+1450,Vesta,Puzzle,NS,FinalBoss Games,FinalBoss Games,,,,,
+1451,Vesta,Puzzle,PS4,FinalBoss Games,FinalBoss Games,,,,,
+1452,Vesta,Puzzle,XOne,FinalBoss Games,FinalBoss Games,,,,,
+1453,Vesta,Puzzle,PC,FinalBoss Games,FinalBoss Games,,,,,
+1454,Wanderjahr: Try Again or Walk Away,Role-Playing,NS,"Corecell Technology Co.,Ltd.","Corecell Technology Co.,Ltd.",,,,,
+1455,Wandersong,Adventure,NS,Humble Bundle,Greg Lobanov,,,,,
+1456,Warp Shift,Puzzle,NS,Isbit Games,Isbit Games,,,,,
+1457,Wasteland 2: Director's Cut,Strategy,NS,inXile Entertainment,InXile Entertainment,,,,,
+1458,We Were Here Too,Adventure,PC,Total Mayhem Games,Total Mayhem Games,,,,,
+1459,West of Loathing,Adventure,NS,Asymmetric,Asymmetric Publications,,,,,
+1460,Winning Post 8 2018,Sports,PC,Koei Tecmo,Koei Tecmo Games,,,,,
+1461,Without Within 3,Visual Novel,PC,InvertMouse,InvertMouse,,,,,
+1462,World Conqueror X,Strategy,NS,CIRCLE Entertainment,CIRCLE Entertainment,,,,,
+1463,World End Syndrome,Visual Novel,PS4,Arc System Works,Arc System Works,,,,,
+1464,World End Syndrome,Visual Novel,PSV,Arc System Works,Arc System Works,,,,,
+1465,World of Final Fantasy Maxima,Role-Playing,NS,Square Enix,Square Enix,,,,,
+1466,World of Final Fantasy Maxima,Role-Playing,PS4,Square Enix,Square Enix,,,,,
+1467,World of Final Fantasy Maxima,Role-Playing,PC,Square Enix,Square Enix,,,,,
+1468,World of Warriors,Action,PS4,Sony Interactive Entertainment,Saber Interactive,,,,,
+1469,World to the West,Action-Adventure,NS,Rain Games,Rain Games,,,,,
+1470,Wreckfest,Racing,PC,THQ Nordic,Bugbear Entertainment,,,,,
+1471,WWE 2K19,Fighting,PC,2K Sports,Visual Concepts,,,,,
+1472,Xenon Valkyrie+,Platform,PS4,COWCAT,Diabolical Mind,,,,,
+1473,Xenon Valkyrie+,Platform,XOne,COWCAT,Diabolical Mind,,,,,
+1474,Xeodrifter,Platform,NS,Atooi,Atooi,,,,,
+1475,Xuan Yuan Sword: The Gate of Firmament,Role-Playing,XOne,E-Home Entertainment,DOMO Studio,,,,,
+1476,Ys VIII: Lacrimosa of Dana,Role-Playing,PC,NIS America,Falcom,,,,,
+1477,ZERO GUNNER 2,Action,NS,Zerodiv,ZeroDiv,,,,,
+1478,Zombillie,Puzzle,NS,Forever Entertainment S.A.,Forever Entertainment S.A.,,,,,
+1479,Zone of the Enders: The 2nd Runner MARS,Simulation,PC,Konami,Cygames,,,,,
+1480,Zoo Tycoon: Ultimate Animal Collection,Simulation,PC,THQ Nordic,Frontier Developments,,,,,
