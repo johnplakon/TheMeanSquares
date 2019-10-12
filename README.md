@@ -1,2 +1,3 @@
-# TheMeanSquares
-2019 Video Game Predictions
+The Mean Squares
+
+Video Games sales for 2018
