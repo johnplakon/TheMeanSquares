@@ -1,12 +1,42 @@
-from flask import Flask, render_template,request
+from flask import Flask, render_template,request, jsonify
 import plotly
 import plotly.graph_objs as go
 import json
 import tablib
 import os
 import pandas as pd
+######Added by Claridy
+from config import password
+import sqlalchemy
+from sqlalchemy.ext.automap import automap_base
+from sqlalchemy.orm import Session
+from sqlalchemy import create_engine, func
+from flask_sqlalchemy import SQLAlchemy
+######
 
 app = Flask(__name__)
+##########################################
+# Database Setup 
+# Claridy 10/14/19
+###########################################
+
+DB_URL = 'postgresql+psycopg2://postgres:'+ password + '@localhost:5432/videogames_db'
+app.config['SQLALCHEMY_DATABASE_URI'] = DB_URL
+db = SQLAlchemy(app)
+
+# reflect an existing database into a new model
+Base = automap_base()
+# reflect the tables
+Base.prepare(db.engine, reflect=True)
+#Save reference to table
+Games = Base.classes.games
+
+# stmt = db.session.query(Games).statement
+session = Session(db.engine)
+df2 = pd.read_sql_query('SELECT * FROM Games', session.bind)
+print(df2)
+
+#############################################
 dataset = tablib.Dataset()
 with open(os.path.join(os.path.dirname(__file__),'vgsales.csv')) as f:
     dataset.csv = f.read()
